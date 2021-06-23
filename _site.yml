@@ -1,9 +1,16 @@
 name: "raovnv-website"
+output_dir: "."
 navbar:
   title: "V.N. Vimal Rao"
   left:
     - text: "Home"
       href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Work Experience"
+      href: workexp.html
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<rao00013@umn.edu>
@@ -12,5 +19,6 @@ navbar:
 output:
   html_document:
     theme: flatly
-output_dir: "."
+
+
 
