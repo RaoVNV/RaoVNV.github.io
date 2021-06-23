@@ -1,11 +1,9 @@
 ---
-title: "V.N. Vimal Rao - Research"
-output: rmdformats::readthedown
+title: "My Research and Scholarship"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-library(rmdformats)
 ```
 
 Welcome to my research page! 
