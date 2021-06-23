@@ -1,11 +1,14 @@
 ---
 title: "V.N. Vimal Rao - Research"
-output: html_document
+output: rmdformats::readthedown
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(rmdformats)
 ```
 
 Welcome to my research page! 
 
+```{r child = 'research-data-to-graphs.rmd'}
+```
