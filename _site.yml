@@ -1,0 +1,14 @@
+name: "raovnv-website"
+navbar:
+  title: "V.N. Vimal Rao"
+  left:
+    - text: "Home"
+      href: index.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<rao00013@umn.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/RaoVNV/
+output:
+  html_document:
+    theme: flatly
