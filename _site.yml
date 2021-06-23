@@ -12,3 +12,5 @@ navbar:
 output:
   html_document:
     theme: flatly
+output_dir: "."
+
