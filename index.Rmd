@@ -1,20 +1,17 @@
 ---
-title: "Main"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
-Welcome to my webpage! (This site is still under development.)
-
 <img src="img/profilepic.jpg" />
 
-My name is V.N. Vimal Rao. I am currently a PhD candidate in Educational Psychology at the University of Minnesota, where I study statistics education research with my advisors Robert delMas and Andrew Zieffler. 
+Hello! My name is V.N. Vimal Rao. I am currently a PhD candidate in [Educational Psychology](https://www.cehd.umn.edu/edpsych/) at the [University of Minnesota](https://twin-cities.umn.edu/), where I study statistics education research with my advisors [Robert delMas](https://www.cehd.umn.edu/edpsych/people/delma001/) and [Andrew Zieffler](https://www.cehd.umn.edu/edpsych/people/zief0002/). 
 
-I am also about to begin concurrently pursuing an MA under the direction of David DeLiema and Jeffrey Bye focused on the study of learning and cognition, as may relate to statistical reasoning and thinking. 
+I am also about to begin concurrently pursuing an MA under the direction of [David DeLiema](https://www.cehd.umn.edu/edpsych/people/ddeliema/) and [Jeffrey Bye](https://www.cehd.umn.edu/edpsych/people/jbye/) focused on the study of learning and cognition, as it relates to statistical reasoning and thinking. 
 
-On this website, you'll find more information about each of my research and scholarship, my teaching and training, and my work experience. You can also download a copy of my most recent CV [here](https://github.com/RaoVNV/RaoVNV.github.io/blob/main/RaoVNV_CV.pdf). 
+On this website, you'll find more information about my education and work experience as well as my research and teaching. Download a copy of my most recent CV [here](https://github.com/RaoVNV/RaoVNV.github.io/blob/main/RaoVNV_CV.pdf). 
 
 Thank you for visiting my webpage! 

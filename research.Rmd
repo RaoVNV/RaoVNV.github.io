@@ -1,5 +1,4 @@
 ---
-title: "My Research and Scholarship"
 output: html_document
 ---
 

@@ -1,8 +1,13 @@
 ---
-title: "My Teaching and Training"
 output: html_document
 ---
 
-Welcome to my teaching page! 
+Welcome to my teaching and training page! Below, you will find details about each of the courses I've taught and workshops I've given. 
 
 (**More info coming soon**)
+
+# University of Minnesota
+
+# George Washington University
+
+# Workshops
