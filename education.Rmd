@@ -1,5 +1,5 @@
 ---
-title: V.N. Vimal Rao Education
+title: RaoVNV Education
 output: html_document
 ---
 

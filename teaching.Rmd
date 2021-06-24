@@ -1,5 +1,5 @@
 ---
-title: V.N. Vimal Rao Teaching
+title: RaoVNV Teaching and Training
 output: html_document
 ---
 
