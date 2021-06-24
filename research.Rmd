@@ -3,8 +3,27 @@ title: "My Research and Scholarship"
 output: html_document
 ---
 
+Welcome to my research and scholarship page! Below, you will find my research interests, research statement, and links to project pages for my work. 
 
-Welcome to my research page! 
+# Research Interests
 
-```{r child = 'research-data-to-graphs.rmd'}
-```
+My research applies theories and methods from the cognitive and learning sciences to investigate learning and doing statistics, and critically examines statistics education research methodology. 
+
+I am generally interested in research and scholarship in: 
+
+- statistics education,
+- cognitive sciences,
+- learning sciences, and
+- psychometrics. 
+
+# Research Statement
+
+**Statement coming soon**
+
+# Project Links
+
+How do secondary teachers reason about aesthetic mappings linking complex data structures and modern data visualizations? For more, visit [RaoVNV.github.io/Data-to-Graphs/](RaoVNV.github.io/Data-to-Graphs/). 
+
+Have the *statistically significant* and *not statistically significant* category labels for *p*-values altered our cognition and our mental representation of probabilities as *p*-values? For more, visit [RaoVNV.github.io/p-values/](RaoVNV.github.io/p-values/).
+
+**More links coming soon**
