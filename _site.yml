@@ -3,8 +3,10 @@ output_dir: "."
 navbar:
   title: "V.N. Vimal Rao"
   left:
-    - text: "About"
+    - text: "Main"
       href: index.html
+    - text: "About"
+      href: about.html
     - text: "Research"
       href: research.html
     - text: "Teaching"
