@@ -17,7 +17,7 @@ navbar:
     - text: "Email"
       href: mailto:<rao00013@umn.edu>
     - text: "Twitter"
-      href: https://twitter.com/RaoVNV
+      href: https://twitter.com/RaoVNV/
     - text: "GitHub"
       href: http://github.com/RaoVNV/
 output:
