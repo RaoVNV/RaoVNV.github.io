@@ -9,6 +9,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Welcome to my webpage! 
 
+<img src="img/profilepic.jpg" />
+
 My name is V.N. Vimal Rao. I am currently a PhD candidate in Educational Psychology at the University of Minnesota, where I study statistics education research with my advisors Robert delMas and Andrew Zieffler. 
 
 I also am concurrently pursuing an MA under the direction of David DeLiema and Jeffrey Bye focused on the study of learning and cognition, as may relate to statistical reasoning and thinking. 
