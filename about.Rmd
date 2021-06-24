@@ -1,0 +1,21 @@
+---
+output: html_document
+---
+
+Welcome to my About Me page! Below, you will find my research statement, teaching statement, diversity+equity+inclusion statement, and my CV. 
+
+# Research Statement
+
+**Statement coming soon**
+
+# Teaching Statement
+
+**Statement coming soon**
+
+# DEI Statement
+
+**Statement coming soon**
+
+# CV
+
+<iframe src="https://github.com/RaoVNV/RaoVNV.github.io/blob/main/RaoVNV_CV.pdf"></iframe>

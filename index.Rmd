@@ -12,6 +12,6 @@ Hello! My name is V.N. Vimal Rao. I am currently a PhD candidate in [Educational
 
 I am also about to begin concurrently pursuing an MA under the direction of [David DeLiema](https://www.cehd.umn.edu/edpsych/people/ddeliema/) and [Jeffrey Bye](https://www.cehd.umn.edu/edpsych/people/jbye/) focused on the study of learning and cognition, as it relates to statistical reasoning and thinking. 
 
-On this website, you'll find more information about my education and work experience as well as my research and teaching. Download a copy of my most recent CV [here](https://github.com/RaoVNV/RaoVNV.github.io/blob/main/RaoVNV_CV.pdf). 
+On this website, you'll find more information about me, my education and work experience, as well as my teaching and research. 
 
 Thank you for visiting my webpage! 
