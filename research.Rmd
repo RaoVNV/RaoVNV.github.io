@@ -22,7 +22,7 @@ I am generally interested in research and scholarship in:
 
 # Project Links
 
-*Note: to return to this page from any of the project pages, click on my name listed under project team.*
+*Note: to return to this site from any of the project pages, click on my name listed under project team.*
 
 How do secondary teachers reason about aesthetic mappings linking complex data structures and modern data visualizations? For more, visit [RaoVNV.github.io/Data-to-Graphs/](/Data-to-Graphs/). 
 
