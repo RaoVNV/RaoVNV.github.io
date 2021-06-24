@@ -2,9 +2,11 @@
 output: html_document
 ---
 
-Welcome to my teaching and training page! Below, you will find details about each of the courses I've taught and workshops I've given. 
+Welcome to my teaching and training page! Below, you will find my teaching statement as well as details about each of the courses I've taught and workshops I've given. 
 
 (**More info coming soon**)
+
+# Teaching Statement
 
 # University of Minnesota
 
