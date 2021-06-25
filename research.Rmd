@@ -1,5 +1,5 @@
 ---
-title: RaoVNV Research and Scholarship
+title: Research and Scholarship
 output: html_document
 ---
 
@@ -7,14 +7,15 @@ Welcome to my research and scholarship page! Below, you will find my research in
 
 # Research Interests
 
-My research applies theories and methods from the cognitive and learning sciences to investigate learning and doing statistics, and critically examines statistics education research methodology. 
+My research applies theories and methods from the cognitive and learning sciences to investigate the act of learning and doing statistics, and critically examines statistics education research methodology. 
 
 I am generally interested in research and scholarship in: 
 
 - statistics education,
 - cognitive sciences,
-- learning sciences, and
-- psychometrics. 
+- learning sciences, 
+- psychometrics, and
+- history of statistics. 
 
 # Project Links
 

@@ -1,5 +1,5 @@
 ---
-title: RaoVNV Work Experience
+title: Work Experience
 output: html_document
 ---
 
@@ -10,7 +10,7 @@ Welcome to my work experience page! Below, you will find details about each of t
 HIV/AIDS Bureau, Health Resources and Services Administration --
 July 12, 2015 to Dec 27, 2016
 
-I served as an innovative leader in data management and analysis. I supervised team of 8 FTEs and 2 interns in the provision of consultation, advice, and leadership for data collection, data processing and quality evaluations, advanced database management, and data analysis and dissemination. Voluntary separation. Final performance management appraisal program (PMAP) rating of ‘Achieved Outstanding Results’.
+I served as an innovative leader in data management and analysis. I supervised a team of 8 FTEs and 2 interns in the provision of consultation, advice, and leadership for data collection, data processing and quality evaluations, advanced database management, and data analysis and dissemination. Voluntary separation. My final performance management appraisal program (PMAP) rating of ‘Achieved Outstanding Results’.
 
 Main Duties:
 

@@ -1,5 +1,5 @@
 ---
-title: RaoVNV Teaching and Training
+title: Teaching and Training
 output: html_document
 ---
 
