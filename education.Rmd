@@ -10,6 +10,8 @@ Welcome to my education page! Below, you will find more information about each o
 
 Program: Quantitative Methods in Education // Concentration: Statistics Education
 
+Expected completion: May 2023
+
 After being asked to redesign an introductory statistics course (GWU HSCI 2117; see my [teaching](/teaching.html/) for more), I sought to make evidence-based decisions and thus began searching the statistics education literature. This search quickly led me to [Dr. Joan Garfield](https://www.cehd.umn.edu/edpsych/people/jbg/), [Dr. Robert delMas](https://www.cehd.umn.edu/edpsych/people/delma001/) (Bob), and [Dr. Andrew Zieffler](https://www.cehd.umn.edu/edpsych/people/zief0002/) (Andy) at the University of Minnesota. After meeting Bob, Andy, and some of their current and former students during a visit to Minneapolis, I decided to study [statistics education](https://www.cehd.umn.edu/topics/statistics-education/) under their direction. 
 
 My early milestone work focused on psychometric analyses of the Comprehensive Assessment of Outcomes in Statistics (CAOS). I then shifted to studying students' understanding of statistical testing for my dissertation, especially their understanding of hypothesized data generating processes production of sampling distributions. 
@@ -20,6 +22,8 @@ My early milestone work focused on psychometric analyses of the Comprehensive As
 
 Program: Psychological Foundations of Education // Concentration: Learning and Cognition
 
+Expected completion: Dec 2022
+
 While earning my PhD, I began taking courses from faculty in the [Psychological Foundations of Education](https://www.cehd.umn.edu/edpsych/programs/foundations/) program in the [Department of Educational Psychology](https://www.cehd.umn.edu/edpsych/), focusing on courses such as Mathematical Cognition, Computational Thinking, and Advanced Cognition. 
 
 I soon began working with Dr. Sashank Varma and [Dr. Jeffery Bye](https://www.cehd.umn.edu/people/jbye/) on two different projects (see my [research](https://raovnv.github.io/research.html) for more), and participated in their lab. To improve my knowledge and skills in the cognitive and learning sciences, I began formal study under the direction of [Dr. David DeLiema](https://www.cehd.umn.edu/edpsych/people/ddeliema/) and [Dr. Jeffery Bye](https://www.cehd.umn.edu/people/jbye/). 
@@ -28,11 +32,15 @@ I soon began working with Dr. Sashank Varma and [Dr. Jeffery Bye](https://www.ce
 
 # MS in Statistics
 
+Degree date: Dec 2013
+
 While working for the [US Census Bureau](https://www.census.gov/), I pursued an [MS in Statistics](https://statistics.columbian.gwu.edu/ms-statistics) from the [George Washington University](https://www.gwu.edu/) as a part-time student. My coursework primarily focused on modern data analysis and applied statistics, featuring courses such as Data Mining, Legal Statistics, and Modern Theory of Sample Surveys. 
 
 I worked on some small projects with [Dr. Joseph L.  Gastwirth](https://home.gwu.edu/~jlgast/) and [Dr. Rida Moustafa](https://www.linkedin.com/in/rida-moustafa-a663971a7/), but due to competing priorities from my job (and given that I was not, at that time, considering an academic career), I never presented this work at conferences or produced manuscripts. 
 
 # BS in Mathematics
+
+Degree date: Dec 2008
 
 Concentration: Pure Mathematics // Second Major: Economics // Minor: Spanish
 
