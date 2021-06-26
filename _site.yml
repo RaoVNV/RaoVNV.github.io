@@ -25,6 +25,7 @@ output:
     theme: flatly
     toc: true
     toc_float: true
-
+    title: 
+      toc_ignore: true
 
 
