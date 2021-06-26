@@ -6,8 +6,6 @@ toc_float: true
 
 Welcome to my teaching and training page! Below, you will find details about each of the courses I've taught and workshops I've given. 
 
-(**More info coming soon**)
-
 # University of Minnesota
 
 While I was a graduate student at UMN, I worked as an Instructor and Teaching Assistant for several of the Department of Educational Psychology’s statistics courses. My responsibilities included supporting students in their learning, evaluating and updating course materials, and assisting and collaborating with other instructors. I also taught a master’s level biostatistics course, and assisted in the complete re-design of the course and re-creation of instructional materials such as software lessons, lectures, quizzes, and homeworks.
@@ -40,3 +38,5 @@ Courses taught:
 - STAT 2112: Business Statistics II (as TA)
 
 # Workshops
+
+(**More info coming soon**)

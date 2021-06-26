@@ -35,5 +35,4 @@ Last Update: June 2021
   src="/RaoVNV_CV.pdf" 
   type="application/pdf" 
   width="100%" 
-  height="600px" 
 />
