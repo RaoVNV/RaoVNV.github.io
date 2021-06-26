@@ -10,6 +10,33 @@ Welcome to my teaching and training page! Below, you will find details about eac
 
 # University of Minnesota
 
+While I was a graduate student at UMN, I worked as an Instructor and Teaching Assistant for several of the Department of Educational Psychology’s statistics courses. My responsibilities included supporting students in their learning, evaluating and updating course materials, and assisting and collaborating with other instructors. I also taught a master’s level biostatistics course, and assisted in the complete re-design of the course and re-creation of instructional materials such as software lessons, lectures, quizzes, and homeworks.
+
+Courses taught:
+
+- EPSY 5261: Introductory Statistical Methods ([online](https://docs.google.com/document/d/1TldXgeV2jh8AWieSigRx3RjXnfbJ0B8Eik8LQY-2XQI/edit#heading=h.gjdgxs) and [in-person](https://github.com/RaoVNV/syllabi/blob/master/EPSY-5261-In-Class-Syllabus-1%20(12).pdf))
+- PUBH 6451: Biostatistics II ([in-person](https://github.com/RaoVNV/syllabi/blob/master/PUBH%206451%20Sp2020%20IP.pdf) as Co-Instructor)
+- EPSY 3264: Basic and Applied Statistics ([online](https://github.com/RaoVNV/syllabi/blob/master/epsy-3264-002-syllabus-sp21-legacy.pdf) as TA)
+
 # George Washington University
+
+## Department of Clinical Research and Leadership 
+
+Starting in Jan 2016, I have held the position of Adjunct Instructor in the Department of Clinical Research and Leadership, where I teach two undergraduate online courses in statistics for the department. From 2017 to 2020, I concurrently served as course director for the two courses. My responsibilities included evaluating and updating the curriculum, course content, and course blackboard pages each semester, and working with and supporting instructors of the course in their teaching. With the support of the department’s Director of the Research Core Curriculum, I re-designed both courses to be consistent with current guidelines and recommendations for tertiary level statistics education.
+
+Courses taught:
+
+- HSCI 2117: Introduction to Statistics for the Health Sciences ([online](https://github.com/RaoVNV/syllabi/blob/master/Hsci2117_PrintableSyllabus_8wk%20_1_.pdf))
+- HSCI 3117: Principles of Biostatistics for the Health Sciences (online)
+
+## Department of Statistics 
+
+Between 2011 and 2012, while earning my Masters in Statistics, I worked part-time as a grader/teaching assistant for the Department of Statistics. My responsibilities included grading all assignments, assisting the professor in preparing lectures, and occasionally lecturing when the professor was unable to attend class.
+
+Courses taught:
+
+- STAT 6210: Data Analysis (as TA)
+- STAT 3187: Introduction to Sampling (as TA)
+- STAT 2112: Business Statistics II (as TA)
 
 # Workshops
