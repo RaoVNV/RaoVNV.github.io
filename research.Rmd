@@ -1,6 +1,7 @@
 ---
 title: Research and Scholarship
 output: html_document
+toc_float: true
 ---
 
 Welcome to my research and scholarship page! Below, you will find my research interests and links to project pages for my work. 

@@ -1,11 +1,14 @@
 ---
 title: Education
 output: html_document
+toc_float: true
 ---
 
 Welcome to my education page! Below, you will find more information about each of the programs of study I have undertaken, and the advisors I have worked with.
 
-# PhD in Educational Psychology (Statistics Education)
+# PhD in Educational Psychology 
+
+Program: Quantitative Methods in Education // Concentration: Statistics Education
 
 After being asked to redesign an introductory statistics course (GWU HSCI 2117; see my [teaching](/teaching.html/) for more), I sought to make evidence-based decisions and thus began searching the statistics education literature. This search quickly led me to [Dr. Joan Garfield](https://www.cehd.umn.edu/edpsych/people/jbg/), [Dr. Robert delMas](https://www.cehd.umn.edu/edpsych/people/delma001/) (Bob), and [Dr. Andrew Zieffler](https://www.cehd.umn.edu/edpsych/people/zief0002/) (Andy) at the University of Minnesota. After meeting Bob, Andy, and some of their current and former students during a visit to Minneapolis, I decided to study [statistics education](https://www.cehd.umn.edu/topics/statistics-education/) under their direction. 
 
@@ -13,7 +16,9 @@ My early milestone work focused on psychometric analyses of the Comprehensive As
 
 <!-- add links to CAOS and narrative project pages -->
 
-# MA in Educational Psychology (Learning and Cognition)
+# MA in Educational Psychology
+
+Program: Psychological Foundations of Education // Concentration: Learning and Cognition
 
 While earning my PhD, I began taking courses from faculty in the [Psychological Foundations of Education](https://www.cehd.umn.edu/edpsych/programs/foundations/) program in the [Department of Educational Psychology](https://www.cehd.umn.edu/edpsych/), focusing on courses such as Mathematical Cognition, Computational Thinking, and Advanced Cognition. 
 
@@ -27,7 +32,9 @@ While working for the [US Census Bureau](https://www.census.gov/), I pursued an 
 
 I worked on some small projects with [Dr. Joseph L.  Gastwirth](https://home.gwu.edu/~jlgast/) and [Dr. Rida Moustafa](https://www.linkedin.com/in/rida-moustafa-a663971a7/), but due to competing priorities from my job (and given that I was not, at that time, considering an academic career), I never presented this work at conferences or produced manuscripts. 
 
-# BS in Mathematics (Pure Mathematics)
+# BS in Mathematics
+
+Concentration: Pure Mathematics // Second Major: Economics // Minor: Spanish
 
 **More info coming soon**
 

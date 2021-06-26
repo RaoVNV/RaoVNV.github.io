@@ -1,6 +1,7 @@
 ---
 title: About Me
 output: html_document
+toc_float: true
 ---
 
 Welcome to my About Me page! Below, you will find my research statement, teaching statement, DEI statement, and my CV. 
