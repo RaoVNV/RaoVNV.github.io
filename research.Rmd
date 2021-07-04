@@ -18,14 +18,27 @@ I am generally interested in research and scholarship in:
 - psychometrics, and
 - history of statistics. 
 
-<!-- add in something about the link tank -->
+
 
 # Project Links
 
+<!-- add in something about the link tank -->
+
+<!-- add in something about my approach to research, and link to the SPARKS paper --> 
+
 *Note: to return to this site from any of the project pages, click on my name listed under project team.*
+
+
+**More project links coming soon**
+
+## Aesthetic Mappings
 
 How do secondary teachers reason about aesthetic mappings linking complex data structures and modern data visualizations? For more, visit [RaoVNV.github.io/Data-to-Graphs/](/Data-to-Graphs/). 
 
+## Categorizing *p*-values
+
 Have the *statistically significant* and *not statistically significant* category labels for *p*-values altered our cognition and our mental representation of probabilities as *p*-values? For more, visit [RaoVNV.github.io/p-values/](/p-values/).
 
-**More project links coming soon**
+## Context in Statistics
+
+How should instructors navigate context in statistics classes? For more, visit [RaoVNV.github.io/Contexts/](/Contexts/). 
