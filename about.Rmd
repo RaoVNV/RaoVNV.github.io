@@ -31,6 +31,8 @@ I believe that any approach to addressing diversity, equity, and inclusion begin
 
 Last Update: June 2021
 
+Note: The embedded file does not display on mobile devices. To download a copy of my CV, click [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_CV.pdf).
+
 <embed 
   src="/RaoVNV_CV.pdf" 
   type="application/pdf" 
