@@ -24,24 +24,19 @@ I am generally interested in research and scholarship in:
 
 A major influence in my development as a researcher and scholar was a book discussing four models of scholarship beyond so-called traditional research^[Boyer, E. L. (1990). *Scholarship reconsidered: Priorities of the professoriate.* Princeton University Press: Lawrenceville, NJ.]. 
 
-My own take on Boyer's ideas is that I want my research to incorporate both theory-generation as well as theory-application. Furthermore, as a statistics education professional, I want me work to include resources to support anyone who wants to use statistical tools, including researchers in other fields. 
+My own take on Boyer's ideas is that I want my research to incorporate both theory-generation as well as theory-application. Furthermore, as a statistics education professional, I want my work to include resources to support anyone who wants to use statistical tools, including researchers in other fields. 
 
 While one may consider research as the generation of new knowledge, I do not hold knowledge as the ultimate prize. Whether or not the theory of gravity is true, it is *empowering* -- we can board an airplane and fly around the world. I want my work to be empowering, and as my focus is on statistics education, I want to empower individuals to be able to use statistics.
 
 ## Collaboration
 
-My work heavily relies on interdisciplinary collaboration. As Dr. Joan Garfield once said, "I cannot imagine being a sole researcher on any project or keeping ideas to myself" (Garfield, 2013, p. 6)^[Garfield, J. (2013). Cooperative learning revisited: From an instructional method to a way of life. *Journal of Statistics Education, 21*(2).]. To wit, I founded a graduate student organizing called The Link 
-Tank, whose aim is to connect people and ideas (find out more at [z.umn.edu/TheLinkTank](https://z.umn.edu/thelinktank)). You can also read more about my approach to research and scholarship in an article I wrote for SPARK magazine ('[From Happy Hour to Co-Author: How I Found an Academic Home](https://sparkezine.com/2021/04/04/from-happy-hour-to-co-author-how-i-found-an-academic-home/)'). 
+My work heavily relies on interdisciplinary collaboration. As Dr. Joan Garfield once said, "I cannot imagine being a sole researcher on any project or keeping ideas to myself" (Garfield, 2013, p. 6)^[Garfield, J. (2013). Cooperative learning revisited: From an instructional method to a way of life. *Journal of Statistics Education, 21*(2).]. To wit, I founded a graduate student organizing called The Link Tank, whose aim is to connect people and ideas (find out more at [z.umn.edu/TheLinkTank](https://z.umn.edu/thelinktank)). You can also read more about my approach to research and scholarship in an article I wrote for SPARK magazine ('[From Happy Hour to Co-Author: How I Found an Academic Home](https://sparkezine.com/2021/04/04/from-happy-hour-to-co-author-how-i-found-an-academic-home/)'). 
 
 # Project Links
 
 *Note: to return to this site from any of the project pages, click on my name listed under project team.*
 
 **More project links coming soon**
-
-## Aesthetic Mappings
-
-How do secondary teachers reason about aesthetic mappings linking complex data structures and modern data visualizations? For more, visit [RaoVNV.github.io/Data-to-Graphs/](/Data-to-Graphs/). 
 
 ## Categorizing *p*-values
 
@@ -50,3 +45,9 @@ Have the *statistically significant* and *not statistically significant* categor
 ## Context in Statistics
 
 How should instructors navigate context in statistics classes? For more, visit [RaoVNV.github.io/Contexts/](/Contexts/). 
+
+## Aesthetic Mappings
+
+How do secondary teachers reason about aesthetic mappings linking complex data structures and modern data visualizations? For more, visit [RaoVNV.github.io/Data-to-Graphs/](/Data-to-Graphs/). 
+
+
