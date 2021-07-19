@@ -12,7 +12,16 @@ Welcome to my About Me page! Below, you will find my research statement, teachin
 
 # Teaching Statement
 
-**Statement coming soon**
+Last Update: July 2021
+
+Note: The embedded file does not display on mobile devices. To download a copy of my teaching statement, click [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_Teaching.pdf).
+
+<embed 
+  src="/RaoVNV_Teaching.pdf" 
+  type="application/pdf" 
+  width="100%" 
+  height="700px"
+/>
 
 # DEI Statement
 
