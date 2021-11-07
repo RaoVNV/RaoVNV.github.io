@@ -13,7 +13,7 @@
 
 <title>Education</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -360,17 +360,17 @@ div.tocify {
 <div id="phd-in-educational-psychology" class="section level1">
 <h1>PhD in Educational Psychology</h1>
 <p>Program: Quantitative Methods in Education // Concentration: Statistics Education</p>
-<p>Expected completion: May 2023</p>
+<p>Start Date: Sep 2018 Expected Completion: May 2023</p>
 <p>After being asked to redesign an introductory statistics course (GWU HSCI 2117; see my <a href="/teaching.html/">teaching</a> for more), I sought to make evidence-based decisions and thus began searching the statistics education literature. This search quickly led me to <a href="https://www.cehd.umn.edu/edpsych/people/jbg/">Dr. Joan Garfield</a>, <a href="https://www.cehd.umn.edu/edpsych/people/delma001/">Dr. Robert delMas</a> (Bob), and <a href="https://www.cehd.umn.edu/edpsych/people/zief0002/">Dr. Andrew Zieffler</a> (Andy) at the University of Minnesota. After meeting Bob, Andy, and some of their current and former students during a visit to Minneapolis, I decided to study <a href="https://www.cehd.umn.edu/topics/statistics-education/">statistics education</a> under their direction.</p>
-<p>My early milestone work focused on psychometric analyses of the Comprehensive Assessment of Outcomes in Statistics (CAOS). I then shifted to studying students’ understanding of statistical testing for my dissertation, especially their understanding of hypothesized data generating processes production of sampling distributions.</p>
+<p>My early milestone work focused on psychometric analyses of the Comprehensive Assessment of Outcomes in Statistics (CAOS). I then shifted to studying students’ statistical thinking for my dissertation, especially their understanding of hypothesized data generating processes’ production of sampling distributions in statistical testing.</p>
 <!-- add links to CAOS and narrative project pages -->
 </div>
 <div id="ma-in-educational-psychology" class="section level1">
 <h1>MA in Educational Psychology</h1>
 <p>Program: Psychological Foundations of Education // Concentration: Learning and Cognition</p>
-<p>Expected completion: Dec 2022</p>
+<p>Start Date: Sep 2021 Expected Completion: May 2023</p>
 <p>While earning my PhD, I began taking courses from faculty in the <a href="https://www.cehd.umn.edu/edpsych/programs/foundations/">Psychological Foundations of Education</a> program in the <a href="https://www.cehd.umn.edu/edpsych/">Department of Educational Psychology</a>, focusing on courses such as Mathematical Cognition, Computational Thinking, and Advanced Cognition.</p>
-<p>I soon began working with Dr. Sashank Varma and <a href="https://www.cehd.umn.edu/people/jbye/">Dr. Jeffery Bye</a> on two different projects (see my <a href="https://raovnv.github.io/research.html">research</a> for more), and participated in their lab. To improve my knowledge and skills in the cognitive and learning sciences, I began formal study under the direction of <a href="https://www.cehd.umn.edu/edpsych/people/ddeliema/">Dr. David DeLiema</a> and <a href="https://www.cehd.umn.edu/people/jbye/">Dr. Jeffery Bye</a>.</p>
+<p>I soon began working with Dr. Sashank Varma and <a href="https://www.cehd.umn.edu/people/jbye/">Dr. Jeffery Bye</a> on projects related to the intersection of cognitive science and statistics education. I also begain working with <a href="https://www.cehd.umn.edu/edpsych/people/ddeliema/">Dr. David DeLiema</a> on projects related to the intersection of learning sciences and statistics education (see my <a href="https://raovnv.github.io/research.html">research</a> for more). To improve my knowledge and skills in the cognitive and learning sciences, I began formal study under the direction of <a href="https://www.cehd.umn.edu/edpsych/people/ddeliema/">Dr. David DeLiema</a> and <a href="https://www.cehd.umn.edu/people/jbye/">Dr. Jeffery Bye</a>.</p>
 <!-- The topic of my masters paper explored the cognitive foundations of probability underlying statistical reasoning and thinking. -->
 </div>
 <div id="ms-in-statistics" class="section level1">
@@ -425,6 +425,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')

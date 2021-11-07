@@ -13,7 +13,7 @@
 
 <title>About Me</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -356,32 +356,18 @@ div.tocify {
 </div>
 
 
-<p>Welcome to my About Me page! Below, you will find my research statement, teaching statement, DEI statement, and my CV.</p>
-<div id="research-statement" class="section level1">
-<h1>Research Statement</h1>
-<p><strong>Statement coming soon</strong></p>
+<p>Welcome to my About Me page! Below, you will find my research, teaching, advising, and my CV.</p>
+<div id="research" class="section level1">
+<h1>Research</h1>
+<p><strong>coming soon</strong></p>
 </div>
-<div id="teaching-statement" class="section level1">
-<h1>Teaching Statement</h1>
-<p>Last Update: July 2021</p>
-<p>Note: The embedded file does not display on mobile devices. To download a copy of my teaching statement, click <a href="https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_Teaching.pdf">here</a>.</p>
-<embed 
-  src="/RaoVNV_Teaching.pdf" 
-  type="application/pdf" 
-  width="100%" 
-  height="700px"
-/>
+<div id="teaching" class="section level1">
+<h1>Teaching</h1>
+<p><strong>coming soon</strong></p>
 </div>
-<div id="dei-statement" class="section level1">
-<h1>DEI Statement</h1>
-<p>Last Update: July 2021</p>
-<p>Note: The embedded file does not display on mobile devices. To download a copy of my DEI statement, click <a href="https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_DEI.pdf">here</a>.</p>
-<embed 
-  src="/RaoVNV_DEI.pdf" 
-  type="application/pdf" 
-  width="100%" 
-  height="700px"
-/>
+<div id="advising" class="section level1">
+<h1>Advising</h1>
+<p><strong>coming soon</strong></p>
 </div>
 <div id="curriculum-vitae" class="section level1">
 <h1>Curriculum Vitae</h1>
@@ -433,6 +419,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')
