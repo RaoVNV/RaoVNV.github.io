@@ -12,9 +12,9 @@ While I was a graduate student at UMN, I worked as an Instructor and Teaching As
 
 Courses taught:
 
-- EPSY 5261: Introductory Statistical Methods ([online](https://docs.google.com/document/d/1TldXgeV2jh8AWieSigRx3RjXnfbJ0B8Eik8LQY-2XQI/edit#heading=h.gjdgxs) and [in-person](https://github.com/RaoVNV/syllabi/blob/master/EPSY-5261-In-Class-Syllabus-1%20(12).pdf))
+- EPSY 5261: Introductory Statistical Methods ([in-person](https://github.com/RaoVNV/syllabi/blob/master/EPSY-5261-In-Class-Syllabus-1%20(12).pdf); [online](https://docs.google.com/document/d/1TldXgeV2jh8AWieSigRx3RjXnfbJ0B8Eik8LQY-2XQI/edit#heading=h.gjdgxs))
+- EPSY 3264: Basic and Applied Statistics ([in-person](https://docs.google.com/document/d/1yFdR_bUwSzqo8R8E1CTWNAQHDYbZCisGxB_dZzlGU1I/edit); [online](https://github.com/RaoVNV/syllabi/blob/master/epsy-3264-002-syllabus-sp21-legacy.pdf) as TA)
 - PUBH 6451: Biostatistics II ([in-person](https://github.com/RaoVNV/syllabi/blob/master/PUBH%206451%20Sp2020%20IP.pdf) as Co-Instructor)
-- EPSY 3264: Basic and Applied Statistics ([online](https://github.com/RaoVNV/syllabi/blob/master/epsy-3264-002-syllabus-sp21-legacy.pdf) as TA)
 
 # George Washington University
 

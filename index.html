@@ -13,7 +13,8 @@
 
 <title>V.N. Vimal Rao</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -358,7 +359,7 @@ div.tocify {
 
 <p><img src="img/profilepic.JPG" /></p>
 <p>Hello! My name is V.N. Vimal Rao. I am currently a PhD candidate in <a href="https://www.cehd.umn.edu/edpsych/">Educational Psychology</a> at the <a href="https://twin-cities.umn.edu/">University of Minnesota</a>, where I study <a href="https://www.cehd.umn.edu/topics/statistics-education/">statistics education research</a> under the direction of my advisors, <a href="https://www.cehd.umn.edu/edpsych/people/delma001/">Robert delMas</a> and <a href="https://www.cehd.umn.edu/edpsych/people/zief0002/">Andrew Zieffler</a>.</p>
-<p>I am also about to begin concurrently pursuing an MA under the direction of <a href="https://www.cehd.umn.edu/edpsych/people/ddeliema/">David DeLiema</a> and <a href="https://www.cehd.umn.edu/edpsych/people/jbye/">Jeffrey Bye</a> focused on the study of <a href="https://www.cehd.umn.edu/edpsych/programs/foundations/learning/">learning and cognition</a>, as it relates to statistical reasoning and thinking.</p>
+<p>I am also concurrently pursuing an MA under the direction of <a href="https://www.cehd.umn.edu/edpsych/people/ddeliema/">David DeLiema</a> and <a href="https://www.cehd.umn.edu/edpsych/people/jbye/">Jeffrey Bye</a> focused on the study of <a href="https://www.cehd.umn.edu/edpsych/programs/foundations/learning/">learning and cognition</a>, as it relates to statistical reasoning and thinking.</p>
 <p>On this website, you’ll find more information about me, my education and work experience, as well as my teaching and research projects.</p>
 <p>Thank you for visiting my webpage!</p>
 
@@ -400,6 +401,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')

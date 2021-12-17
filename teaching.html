@@ -13,7 +13,8 @@
 
 <title>Teaching and Training</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -362,9 +363,9 @@ div.tocify {
 <p>While I was a graduate student at UMN, I worked as an Instructor and Teaching Assistant for several of the Department of Educational Psychology’s statistics courses. My responsibilities included supporting students in their learning, evaluating and updating course materials, and assisting and collaborating with other instructors. I also taught a master’s level biostatistics course, and assisted in the complete re-design of the course and re-creation of instructional materials such as software lessons, lectures, quizzes, and homeworks.</p>
 <p>Courses taught:</p>
 <ul>
-<li>EPSY 5261: Introductory Statistical Methods (<a href="https://docs.google.com/document/d/1TldXgeV2jh8AWieSigRx3RjXnfbJ0B8Eik8LQY-2XQI/edit#heading=h.gjdgxs">online</a> and <a href="https://github.com/RaoVNV/syllabi/blob/master/EPSY-5261-In-Class-Syllabus-1%20(12).pdf">in-person</a>)</li>
+<li>EPSY 5261: Introductory Statistical Methods (<a href="https://github.com/RaoVNV/syllabi/blob/master/EPSY-5261-In-Class-Syllabus-1%20(12).pdf">in-person</a>; <a href="https://docs.google.com/document/d/1TldXgeV2jh8AWieSigRx3RjXnfbJ0B8Eik8LQY-2XQI/edit#heading=h.gjdgxs">online</a>)</li>
 <li>PUBH 6451: Biostatistics II (<a href="https://github.com/RaoVNV/syllabi/blob/master/PUBH%206451%20Sp2020%20IP.pdf">in-person</a> as Co-Instructor)</li>
-<li>EPSY 3264: Basic and Applied Statistics (<a href="https://github.com/RaoVNV/syllabi/blob/master/epsy-3264-002-syllabus-sp21-legacy.pdf">online</a> as TA)</li>
+<li>EPSY 3264: Basic and Applied Statistics (<a href="https://docs.google.com/document/d/1yFdR_bUwSzqo8R8E1CTWNAQHDYbZCisGxB_dZzlGU1I/edit">in-person</a>; <a href="https://github.com/RaoVNV/syllabi/blob/master/epsy-3264-002-syllabus-sp21-legacy.pdf">online</a> as TA)</li>
 </ul>
 </div>
 <div id="george-washington-university" class="section level1">
@@ -432,6 +433,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')
