@@ -9,7 +9,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<img src="img/profilepic.jpg" />
+<img style="float: left; margin: 0 15px 0 0" src="img/profilepic.jpg" />
 
 Hello! My name is V.N. Vimal Rao. I am currently a PhD candidate in [Educational Psychology](https://www.cehd.umn.edu/edpsych/) at the [University of Minnesota](https://twin-cities.umn.edu/), where I study [statistics education research](https://www.cehd.umn.edu/topics/statistics-education/) under the direction of my advisors, [Robert delMas](https://www.cehd.umn.edu/edpsych/people/delma001/) and [Andrew Zieffler](https://www.cehd.umn.edu/edpsych/people/zief0002/). 
 
