@@ -1,7 +1,9 @@
 ---
 title: Teaching and Training
-output: html_document
-toc_float: true
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 Welcome to my teaching and training page! Below, you will find details about each of the courses I've taught and workshops I've given. 

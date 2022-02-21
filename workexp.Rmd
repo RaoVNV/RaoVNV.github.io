@@ -1,7 +1,9 @@
 ---
 title: Work Experience
-output: html_document
-toc_float: true
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 Welcome to my work experience page! Below, you will find details about each of the full time jobs I've held. 

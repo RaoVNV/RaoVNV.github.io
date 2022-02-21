@@ -1,7 +1,9 @@
 ---
 title: Research and Scholarship
-output: html_document
-toc_float: true
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 Welcome to my research and scholarship page! Below, you will find information on my interests, my values, and links to project pages for my work. 

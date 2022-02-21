@@ -1,7 +1,9 @@
 ---
 title: Education
-output: html_document
-toc_float: true
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 Welcome to my education page! Below, you will find more information about each of the programs of study I have undertaken, and the advisors I have worked with.
