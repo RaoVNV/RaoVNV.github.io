@@ -1,7 +1,7 @@
 name: "raovnv-website"
 output_dir: "."
 navbar:
-  title: "V.N. Vimal Rao"
+  title: "V.N. Vimal Rao"  
   left:
     - text: "About"
       href: about.html
