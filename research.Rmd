@@ -42,7 +42,11 @@ My work heavily relies on interdisciplinary collaboration. As Dr. Joan Garfield 
 
 ## Categorizing *p*-values
 
-Have the *statistically significant* and *not statistically significant* category labels for *p*-values altered our cognition and our mental representation of probabilities as *p*-values? For more, visit [RaoVNV.github.io/p-values/](/p-values/).
+How do the *statistically significant* and *not statistically significant* category labels affect our cognition of *p*-values? For more, visit [RaoVNV.github.io/p-values/](/p-values/).
+
+## Social Justice in Statistics
+
+How can instructors incorporate social justice initiatives into statistics and data science classes? For more, visit [RaoVNV.github.io/SJinStats/](/SJinStats/). 
 
 ## Context in Statistics
 
