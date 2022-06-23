@@ -6,17 +6,22 @@ output:
     toc_float: true
 ---
 
-Welcome to my About Me page! Below, you will find my research, teaching, advising, and my CV. 
+Welcome to my About Me page! Below, you will find information about my research, teaching, advising, and my CV. 
 
 # Research 
 
-My research investigates the psychology of statistics. That is, what does it mean to *do statistics* or *think statistically* and how does one learn how to do this. I am particularly interested in adapting methods utilized in the cognitive and learning sciences to the investigation of statistical thinking, and considering what new types of evidence can be observed and how this affects our theories of statistical cognition. 
+My research investigates the psychology of statistics. That is, what does it mean to *do statistics* or *think statistically* and how does one learn to do this. I draw on theories and methods from the cognitive and learning sciences to the investigate statistical thinking, and consider what new types of evidence we can observed and how this affects our theories of statistical cognition. 
 
-My early milestone work utilized validity theory to evaluate how the *Comprehensive Assessment of Outcomes in Statistics* is utilized in statistics education research. Rao, Bye, and Varma (2021) borrowed methods from studies of categorical perception to examine the cognitive effects of categorizing *p*-values as "statistically significant" or not. DeLiema et al. (2021) examined how multi-model and multi-event video-based research can be utilized to arrive at new understandings of phenomena, including the study of statistics education. My dissertation examines graduate students' understanding of null models, and how this understanding may be intertwined with the software being used. It also explores how traces of an individuals' thinking such as eye-tracking can support inferences about an individual's cognition and support tasks like as observations and think-aloud interviews. 
+- My early milestone work utilized validity theory to evaluate how the *Comprehensive Assessment of Outcomes in Statistics* is utilized in statistics education research. 
+- Rao, Bye, and Varma (2021) borrowed methods from studies of categorical perception to examine the cognitive effects of categorizing *p*-values as "statistically significant" or not. 
+- DeLiema et al. (2021) examined how multi-model and multi-event video-based research can be utilized to arrive at new understandings of phenomena, including the study of statistics education. 
+- My dissertation examines graduate students' thinking in statistical tests, with specific focus on their thinking about null models. It also explores how traces of an individuals' thinking such as eye-tracking can support inferences about an individual's cognition and support tasks like observations and think-aloud interviews. 
 
 # Teaching
 
-**coming soon**
+आचार्यात् पादमादत्ते पादं शिष्यः स्वमेधया। सब्रह्मचारिभ्यः पादं पादं कालक्रमेण च॥ *Mahabharata 5:44:9*
+
+This saying states that a student’s learning is derived from four sources: their teacher, themselves, their peers, and through time. These four sources do not operate independently - my choices as a teacher are inexorably intertwined with the impact each source has on students. My goal is thus to support my students’ learning by facilitating a learning environment in which all sources can contribute to students’ growth. To manifest these values in a learning environment, I adopt a student-centered approach to guide my student interactions and classroom presence. 
 
 
 # Advising
@@ -26,7 +31,7 @@ My early milestone work utilized validity theory to evaluate how the *Comprehens
 
 # Curriculum Vitae
 
-Last Update: Dec 2021
+Last Update: May 2022
 
 Note: The embedded file does not display on mobile devices. To download a copy of my CV, click [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_CV.pdf).
 
