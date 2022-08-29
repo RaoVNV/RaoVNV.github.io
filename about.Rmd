@@ -10,12 +10,9 @@ Welcome to my About Me page! Below, you will find information about my research,
 
 # Research 
 
-My research investigates the psychology of statistics. That is, what does it mean to *do statistics* or *think statistically* and how does one learn to do this. I draw on theories and methods from the cognitive and learning sciences to the investigate statistical thinking, and consider what new types of evidence we can observed and how this affects our theories of statistical cognition. 
+My research investigates the psychology of statistics. That is, what does it mean to do statistics or think statistically, and how does one learn to do this? I draw on theories and methods from the cognitive and learning sciences to investigate statistical thinking, and consider what new types of evidence we might observe and how this affects our theories of statistical cognition. 
 
-- My early milestone work utilized validity theory to evaluate how the *Comprehensive Assessment of Outcomes in Statistics* is utilized in statistics education research. 
-- Rao, Bye, and Varma (2021) borrowed methods from studies of categorical perception to examine the cognitive effects of categorizing *p*-values as "statistically significant" or not. 
-- DeLiema et al. (2021) examined how multi-model and multi-event video-based research can be utilized to arrive at new understandings of phenomena, including the study of statistics education. 
-- My dissertation examines graduate students' thinking in statistical tests, with specific focus on their thinking about null models. It also explores how traces of an individuals' thinking such as eye-tracking can support inferences about an individual's cognition and support tasks like observations and think-aloud interviews. 
+To read more about my research, download a copy of my research statement [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_Research.pdf).
 
 # Teaching
 
@@ -23,6 +20,13 @@ My research investigates the psychology of statistics. That is, what does it mea
 
 This saying states that a student’s learning is derived from four sources: their teacher, themselves, their peers, and through time. These four sources do not operate independently - my choices as a teacher are inexorably intertwined with the impact each source has on students. My goal is thus to support my students’ learning by facilitating a learning environment in which all sources can contribute to students’ growth. To manifest these values in a learning environment, I adopt a student-centered approach to guide my student interactions and classroom presence. 
 
+To read more about my teaching, download a copy of my teaching statement [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_Teaching.pdf).
+
+# Equity, Diversity, and Inclusion
+
+நான் யார்? [naan yaar] In Tamil, this question famously asked by the Saint Sri Ramana Maharishi simply asks, “Who am I?”. The answer might best be expressed by the great saying from the Yajur Veda, अहम् ब्रह्मास्मि [aham brahmaasmi], meaning “I am Brahman”. Brahman, in the advaita (non-dualistic) tradition, is the infinite all-pervading consciousness without which there is nothing, what we might call ‘The Holy Spirit’ or ‘God’. This seemingly simple question and answer, asking us to see God in everything and everyone, are at the core of my beliefs, and govern the way I interact with all others, whether they be students, colleagues, friends, or family. I strive to see a oneness in all creation and in the omnipresence of variability in that creation, and use my skills to support and empower my fellow living beings however I can. 
+
+To read more about my approach to EDI, download a copy of my EDI statement [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_EDI.pdf).
 
 # Advising
 
@@ -33,7 +37,7 @@ This saying states that a student’s learning is derived from four sources: the
 
 Last Update: May 2022
 
-Note: The embedded file does not display on mobile devices. To download a copy of my CV, click [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_CV.pdf).
+To download a copy of my CV, click [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_CV.pdf).
 
 <embed 
   src="/RaoVNV_CV.pdf" 
