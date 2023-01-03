@@ -11,9 +11,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <img style="float: left; margin: 0 15px 0 0" src="img/profilepic.jpg" />
 
-Hello! My name is V.N. Vimal Rao. I am currently a PhD candidate in [Educational Psychology](https://www.cehd.umn.edu/edpsych/) at the [University of Minnesota](https://twin-cities.umn.edu/), where I study [statistics education research](https://www.cehd.umn.edu/topics/statistics-education/) under the direction of my advisors, [Robert delMas](https://www.cehd.umn.edu/edpsych/people/delma001/) and [Andrew Zieffler](https://www.cehd.umn.edu/edpsych/people/zief0002/). 
+Hello! My name is V.N. Vimal Rao. I am a Statistician and Educational Psychologist, currently at the [Department of Educational Psychology](https://www.cehd.umn.edu/edpsych/) at the [University of Minnesota](https://twin-cities.umn.edu/). 
 
-I am also concurrently pursuing an MA under the direction of [Jeffrey Bye](https://www.cehd.umn.edu/edpsych/people/jbye/) and [David DeLiema](https://www.cehd.umn.edu/edpsych/people/ddeliema/) focused on the study of [learning and cognition](https://www.cehd.umn.edu/edpsych/programs/foundations/learning/), as it relates to statistical reasoning and thinking. 
+My main interests are in the psychology of statistics: what does it mean to *do* statistics, and how does one learn to do statistics? Specifically, I study [statistics education](https://www.cehd.umn.edu/topics/statistics-education/) with [Robert delMas](https://www.cehd.umn.edu/edpsych/people/delma001/) and [Andrew Zieffler](https://www.cehd.umn.edu/edpsych/people/zief0002/). I also study [learning and cognition](https://www.cehd.umn.edu/edpsych/programs/foundations/learning/), as it relates to statistical reasoning and thinking, with [Jeffrey Bye](https://www.cehd.umn.edu/edpsych/people/jbye/) and [David DeLiema](https://www.cehd.umn.edu/edpsych/people/ddeliema/).
 
 On this website, you'll find more information about me, my education and work experience, as well as my teaching and research projects. 
 
