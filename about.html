@@ -13,7 +13,7 @@
 
 <title>About Me</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -63,6 +63,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -140,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -173,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -182,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -308,7 +309,7 @@ div.tocify {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -360,19 +361,21 @@ div.tocify {
 <p>Welcome to my About Me page! Below, you will find information about my research, teaching, advising, and my CV.</p>
 <div id="research" class="section level1">
 <h1>Research</h1>
-<p>My research investigates the psychology of statistics. That is, what does it mean to do statistics or think statistically, and how does one learn to do this? I draw on theories and methods from the cognitive and learning sciences to investigate statistical thinking, and consider what new types of evidence we might observe and how this affects our theories of statistical cognition.</p>
-<p>To read more about my research, download a copy of my research statement <a href="https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_Research.pdf">here</a>.</p>
+<p>My research investigates the psychology of statistics. That is, what does it mean to do statistics or think statistically, and how does one learn to do this?</p>
+<p>Between 2020 - 2022, my work primarily drew on theories and methods from the cognitive and learning sciences to investigate statistical thinking, as I considered what new types of evidence we might observe and how this might affect our theories of statistical cognition.</p>
+<p>To read more about my research during this time period, download a copy of my research statement from 2022 <a href="https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_Research.pdf">here</a>.</p>
+<p>Starting in 2023, my interests have begun to shift towards the study of individuals’ relationship with data and datasets, with a specific focus on inclusivity.</p>
 </div>
 <div id="teaching" class="section level1">
 <h1>Teaching</h1>
 <p>आचार्यात् पादमादत्ते पादं शिष्यः स्वमेधया। सब्रह्मचारिभ्यः पादं पादं कालक्रमेण च॥ <em>Mahabharata 5:44:9</em></p>
 <p>This saying states that a student’s learning is derived from four sources: their teacher, themselves, their peers, and through time. These four sources do not operate independently - my choices as a teacher are inexorably intertwined with the impact each source has on students. My goal is thus to support my students’ learning by facilitating a learning environment in which all sources can contribute to students’ growth. To manifest these values in a learning environment, I adopt a student-centered approach to guide my student interactions and classroom presence.</p>
-<p>To read more about my teaching, download a copy of my teaching statement <a href="https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_Teaching.pdf">here</a>.</p>
+<p>To read more about my teaching, download a copy of my teaching statement from 2022 <a href="https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_Teaching.pdf">here</a>.</p>
 </div>
 <div id="equity-diversity-and-inclusion" class="section level1">
 <h1>Equity, Diversity, and Inclusion</h1>
 <p>நான் யார்? [naan yaar] In Tamil, this question famously asked by the Saint Sri Ramana Maharishi simply asks, “Who am I?”. Together with the answer from the Yajur Veda, अहम् ब्रह्मास्मि [aham brahmaasmi], “I am Brahman”, this question fuels my drive to try to see myself in everything and everyone, and share my knowledge to help empower my fellow humans.</p>
-<p>To read more about the way my values influence me, download a copy of my EDI statement <a href="https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_EDI_2pg.pdf">here</a>.</p>
+<p>To read more about the way my values influence me, download a copy of my EDI statement from 2022 <a href="https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_EDI_2pg.pdf">here</a>.</p>
 </div>
 <div id="advising" class="section level1">
 <h1>Advising</h1>

@@ -10,9 +10,13 @@ Welcome to my About Me page! Below, you will find information about my research,
 
 # Research 
 
-My research investigates the psychology of statistics. That is, what does it mean to do statistics or think statistically, and how does one learn to do this? I draw on theories and methods from the cognitive and learning sciences to investigate statistical thinking, and consider what new types of evidence we might observe and how this affects our theories of statistical cognition. 
+My research investigates the psychology of statistics. That is, what does it mean to do statistics or think statistically, and how does one learn to do this? 
 
-To read more about my research, download a copy of my research statement [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_Research.pdf).
+Between 2020 - 2022, my work primarily drew on theories and methods from the cognitive and learning sciences to investigate statistical thinking, as I considered what new types of evidence we might observe and how this might affect our theories of statistical cognition. 
+
+To read more about my research during this time period, download a copy of my research statement from 2022 [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_Research.pdf).
+
+Starting in 2023, my interests have begun to shift towards the study of individuals' relationship with data and datasets, with a specific focus on inclusivity. 
 
 # Teaching
 
@@ -20,13 +24,13 @@ To read more about my research, download a copy of my research statement [here](
 
 This saying states that a student’s learning is derived from four sources: their teacher, themselves, their peers, and through time. These four sources do not operate independently - my choices as a teacher are inexorably intertwined with the impact each source has on students. My goal is thus to support my students’ learning by facilitating a learning environment in which all sources can contribute to students’ growth. To manifest these values in a learning environment, I adopt a student-centered approach to guide my student interactions and classroom presence. 
 
-To read more about my teaching, download a copy of my teaching statement [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_Teaching.pdf).
+To read more about my teaching, download a copy of my teaching statement from 2022 [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_Teaching.pdf).
 
 # Equity, Diversity, and Inclusion
 
 நான் யார்? [naan yaar] In Tamil, this question famously asked by the Saint Sri Ramana Maharishi simply asks, “Who am I?”. Together with the answer from the Yajur Veda, अहम् ब्रह्मास्मि [aham brahmaasmi], “I am Brahman”, this question fuels my drive to try to see myself in everything and everyone, and share my knowledge to help empower my fellow humans. 
 
-To read more about the way my values influence me, download a copy of my EDI statement [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_EDI_2pg.pdf).
+To read more about the way my values influence me, download a copy of my EDI statement from 2022 [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_EDI_2pg.pdf).
 
 
 # Advising
