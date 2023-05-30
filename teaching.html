@@ -13,7 +13,7 @@
 
 <title>Teaching and Training</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -63,6 +63,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -140,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -173,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -182,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -308,7 +309,7 @@ div.tocify {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -321,16 +322,19 @@ div.tocify {
   <a href="about.html">About</a>
 </li>
 <li>
-  <a href="education.html">Education</a>
-</li>
-<li>
-  <a href="workexp.html">Work Experience</a>
+  <a href="research.html">Research</a>
 </li>
 <li>
   <a href="teaching.html">Teaching</a>
 </li>
 <li>
-  <a href="research.html">Research</a>
+  <a href="advising.html">Advising</a>
+</li>
+<li>
+  <a href="education.html">Education</a>
+</li>
+<li>
+  <a href="workexp.html">Work Experience</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -357,42 +361,47 @@ div.tocify {
 </div>
 
 
-<p>Welcome to my teaching and training page! Below, you will find details about each of the courses I’ve taught and workshops I’ve given.</p>
+<p>Welcome to my <code>Teaching and Training</code> page! Below, you will find a list of courses I’ve taught along with example syllabi.</p>
 <div id="university-of-minnesota" class="section level1">
 <h1>University of Minnesota</h1>
-<p>While I was a graduate student at UMN, I worked as an Instructor and Teaching Assistant for several of the Department of Educational Psychology’s statistics courses. My responsibilities included supporting students in their learning, evaluating and updating course materials, and assisting and collaborating with other instructors. I also taught a master’s level biostatistics course, and assisted in the complete re-design of the course and re-creation of instructional materials such as software lessons, lectures, quizzes, and homeworks.</p>
-<p>Courses taught:</p>
+<p><em>EPSY 5261 Introductory Statistical Methods</em> is an introductory master’s level statistics course for students in the educational, psychological, and health sciences. The course focuses the basic principles of statistical inference.</p>
 <ul>
-<li>EPSY 5261: Introductory Statistical Methods (<a href="https://github.com/RaoVNV/syllabi/blob/master/EPSY-5261-In-Class-Syllabus-1%20(12).pdf">in-person</a>; <a href="https://docs.google.com/document/d/1TldXgeV2jh8AWieSigRx3RjXnfbJ0B8Eik8LQY-2XQI/edit#heading=h.gjdgxs">online</a>)</li>
-<li>EPSY 3264: Basic and Applied Statistics (<a href="https://docs.google.com/document/d/1yFdR_bUwSzqo8R8E1CTWNAQHDYbZCisGxB_dZzlGU1I/edit">in-person</a>; <a href="https://github.com/RaoVNV/syllabi/blob/master/epsy-3264-002-syllabus-sp21-legacy.pdf">online</a> as TA)</li>
-<li>PUBH 6451: Biostatistics II (<a href="https://github.com/RaoVNV/syllabi/blob/master/PUBH%206451%20Sp2020%20IP.pdf">in-person</a> as Co-Instructor)</li>
+<li><a href="https://github.com/RaoVNV/syllabi/blob/master/EPSY-5261-In-Class-Syllabus-1%20(12).pdf">Fall 2020 In-person Syllabus</a></li>
+<li><a href="https://docs.google.com/document/d/1TldXgeV2jh8AWieSigRx3RjXnfbJ0B8Eik8LQY-2XQI/edit#heading=h.gjdgxs">Spring 2021 Online Syllabus</a></li>
+</ul>
+<p><em>EPSY 3264 Basic and Applied Statistics</em> is an introductory undergraduate level statistics course for students in any major. The course focuses on the basic principles of statistical inference.</p>
+<ul>
+<li><a href="https://docs.google.com/document/d/1yFdR_bUwSzqo8R8E1CTWNAQHDYbZCisGxB_dZzlGU1I/edit">Fall 2021 In-person Syllabus</a></li>
+</ul>
+<p><em>PUBH 6451 Biostatistics II (as Co-Instructor)</em> is a master’s level course in statistics for students in the health sciences. It is the second course in a sequence (preceded by PUBH 6450) and focuses on statistical modelling of public health phenomena.</p>
+<ul>
+<li><a href="https://github.com/RaoVNV/syllabi/blob/master/PUBH%206451%20Sp2020%20IP.pdf">Spring 2020 In-person Syllabus</a></li>
 </ul>
 </div>
 <div id="george-washington-university" class="section level1">
 <h1>George Washington University</h1>
-<div id="department-of-clinical-research-and-leadership" class="section level2">
-<h2>Department of Clinical Research and Leadership</h2>
-<p>Starting in Jan 2016, I have held the position of Adjunct Instructor in the Department of Clinical Research and Leadership, where I teach two undergraduate online courses in statistics for the department. From 2017 to 2020, I concurrently served as course director for the two courses. My responsibilities included evaluating and updating the curriculum, course content, and course blackboard pages each semester, and working with and supporting instructors of the course in their teaching. With the support of the department’s Director of the Research Core Curriculum, I re-designed both courses to be consistent with current guidelines and recommendations for tertiary level statistics education.</p>
-<p>Courses taught:</p>
+<p><em>HSCI 2117 Introduction to Statistics for the Health Sciences</em> is an introductory undergraduate level statistics course for students in the health sciences. The course focuses on the basic principles of statistical inference.</p>
 <ul>
-<li>HSCI 2117: Introduction to Statistics for the Health Sciences (<a href="https://github.com/RaoVNV/syllabi/blob/master/Hsci2117_PrintableSyllabus_8wk%20_1_.pdf">online</a>)</li>
-<li>HSCI 3117: Principles of Biostatistics for the Health Sciences (online)</li>
+<li><a href="https://github.com/RaoVNV/syllabi/blob/master/Hsci2117_PrintableSyllabus_8wk%20_1_.pdf">Spring 2022 Online Syllabus</a></li>
 </ul>
-</div>
-<div id="department-of-statistics" class="section level2">
-<h2>Department of Statistics</h2>
-<p>Between 2011 and 2012, while earning my Masters in Statistics, I worked part-time as a grader/teaching assistant for the Department of Statistics. My responsibilities included grading all assignments, assisting the professor in preparing lectures, and occasionally lecturing when the professor was unable to attend class.</p>
-<p>Courses taught:</p>
+<p><em>HSCI 3117 Principles of Biostatistics for the Health Sciences</em> is an intermediate undergraduate level statistics course for students in the health sciences. The course focuses on basic biostatistical literacy with regards to statistical modelling of public health phenomena.</p>
 <ul>
-<li>STAT 6210: Data Analysis (as TA)</li>
-<li>STAT 3187: Introduction to Sampling (as TA)</li>
-<li>STAT 2112: Business Statistics II (as TA)</li>
+<li><a href="https://github.com/RaoVNV/syllabi/blob/10442e5ac93d1bd8d7700a14e9e3c24fe1e17b0c/HSCI%203117%20-%20Spring%202023%20Syllabus.pdf">Spring 2023 Online Syllabus</a></li>
 </ul>
-</div>
+<p><em>STAT 6210 Data Analysis (as TA)</em> is a master’s level course for students in the statistics department. The course focuses on modern and applied methods of statistical analysis and programming.</p>
+<p><em>STAT 3187 Introduction to Sampling (as TA)</em> is an advanced undergraduate level course for students in the statistics department. The course focuses on the theories and principles of statistical sampling.</p>
+<p><em>STAT 2112 Business Statistics II (as TA)</em> is an introductory undergraduate level course for students majoring in the business related programs. It is the second course in a sequence (preceded by STAT 2111) and focuses on methods and applications of statistical inference.</p>
 </div>
 <div id="workshops" class="section level1">
 <h1>Workshops</h1>
-<p>(<strong>More info coming soon</strong>)</p>
+<p>United Nations Secretariat, Office of Internal Oversight Services, Inspection and Evaluation Division. <em>Principles of Statistical Inference for Program Evaluation, May 16-18, 2023</em></p>
+<ul>
+<li>In this 3hr / 3day workshop, I focus on frameworks and approaches to quantitative thinking that can be utilized in mixed-method program evaluations to help determine if, when, and how statistical design and analysis can be incorporated into evaluation theories of change and evaluation reports.</li>
+</ul>
+<p>Simulation SummerSchool. <em><a href="https://simsummerschool.github.io/index.html">Simulation-based inference with R for ANOVA design experiments, June 14, 2021</a></em></p>
+<ul>
+<li>In this 1.5hr workshop, I focus on taking a simulation-based approach to support the design, analysis, and writing of ANOVA-based research projects in the psychological sciences.</li>
+</ul>
 </div>
 
 

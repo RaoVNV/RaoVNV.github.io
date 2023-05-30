@@ -6,39 +6,45 @@ output:
     toc_float: true
 ---
 
-Welcome to my teaching and training page! Below, you will find details about each of the courses I've taught and workshops I've given. 
+Welcome to my `Teaching and Training` page! Below, you will find a list of courses I've taught along with example syllabi. 
 
 # University of Minnesota
 
-While I was a graduate student at UMN, I worked as an Instructor and Teaching Assistant for several of the Department of Educational Psychology’s statistics courses. My responsibilities included supporting students in their learning, evaluating and updating course materials, and assisting and collaborating with other instructors. I also taught a master’s level biostatistics course, and assisted in the complete re-design of the course and re-creation of instructional materials such as software lessons, lectures, quizzes, and homeworks.
+*EPSY 5261 Introductory Statistical Methods* is an introductory master's level statistics course for students in the educational, psychological, and health sciences. The course focuses the basic principles of statistical inference.
 
-Courses taught:
+- [Fall 2020 In-person Syllabus](https://github.com/RaoVNV/syllabi/blob/master/EPSY-5261-In-Class-Syllabus-1%20(12).pdf)
+- [Spring 2021 Online Syllabus](https://docs.google.com/document/d/1TldXgeV2jh8AWieSigRx3RjXnfbJ0B8Eik8LQY-2XQI/edit#heading=h.gjdgxs)
 
-- EPSY 5261: Introductory Statistical Methods ([in-person](https://github.com/RaoVNV/syllabi/blob/master/EPSY-5261-In-Class-Syllabus-1%20(12).pdf); [online](https://docs.google.com/document/d/1TldXgeV2jh8AWieSigRx3RjXnfbJ0B8Eik8LQY-2XQI/edit#heading=h.gjdgxs))
-- EPSY 3264: Basic and Applied Statistics ([in-person](https://docs.google.com/document/d/1yFdR_bUwSzqo8R8E1CTWNAQHDYbZCisGxB_dZzlGU1I/edit); [online](https://github.com/RaoVNV/syllabi/blob/master/epsy-3264-002-syllabus-sp21-legacy.pdf) as TA)
-- PUBH 6451: Biostatistics II ([in-person](https://github.com/RaoVNV/syllabi/blob/master/PUBH%206451%20Sp2020%20IP.pdf) as Co-Instructor)
+*EPSY 3264 Basic and Applied Statistics* is an introductory undergraduate level statistics course for students in any major. The course focuses on the basic principles of statistical inference.
+
+- [Fall 2021 In-person Syllabus](https://docs.google.com/document/d/1yFdR_bUwSzqo8R8E1CTWNAQHDYbZCisGxB_dZzlGU1I/edit)
+
+*PUBH 6451 Biostatistics II (as Co-Instructor)* is a master's level course in statistics for students in the health sciences. It is the second course in a sequence (preceded by PUBH 6450) and focuses on statistical modelling of public health phenomena.  
+
+- [Spring 2020 In-person Syllabus](https://github.com/RaoVNV/syllabi/blob/master/PUBH%206451%20Sp2020%20IP.pdf)
 
 # George Washington University
 
-## Department of Clinical Research and Leadership 
+*HSCI 2117 Introduction to Statistics for the Health Sciences* is an introductory undergraduate level statistics course for students in the health sciences. The course focuses on the basic principles of statistical inference. 
 
-Starting in Jan 2016, I have held the position of Adjunct Instructor in the Department of Clinical Research and Leadership, where I teach two undergraduate online courses in statistics for the department. From 2017 to 2020, I concurrently served as course director for the two courses. My responsibilities included evaluating and updating the curriculum, course content, and course blackboard pages each semester, and working with and supporting instructors of the course in their teaching. With the support of the department’s Director of the Research Core Curriculum, I re-designed both courses to be consistent with current guidelines and recommendations for tertiary level statistics education.
+- [Spring 2022 Online Syllabus](https://github.com/RaoVNV/syllabi/blob/master/Hsci2117_PrintableSyllabus_8wk%20_1_.pdf)
 
-Courses taught:
+*HSCI 3117 Principles of Biostatistics for the Health Sciences* is an intermediate undergraduate level statistics course for students in the health sciences. The course focuses on basic biostatistical literacy with regards to statistical modelling of public health phenomena. 
 
-- HSCI 2117: Introduction to Statistics for the Health Sciences ([online](https://github.com/RaoVNV/syllabi/blob/master/Hsci2117_PrintableSyllabus_8wk%20_1_.pdf))
-- HSCI 3117: Principles of Biostatistics for the Health Sciences (online)
+- [Spring 2023 Online Syllabus](https://github.com/RaoVNV/syllabi/blob/10442e5ac93d1bd8d7700a14e9e3c24fe1e17b0c/HSCI%203117%20-%20Spring%202023%20Syllabus.pdf)
 
-## Department of Statistics 
+*STAT 6210 Data Analysis (as TA)* is a master's level course for students in the statistics department. The course focuses on modern and applied methods of statistical analysis and programming. 
 
-Between 2011 and 2012, while earning my Masters in Statistics, I worked part-time as a grader/teaching assistant for the Department of Statistics. My responsibilities included grading all assignments, assisting the professor in preparing lectures, and occasionally lecturing when the professor was unable to attend class.
+*STAT 3187 Introduction to Sampling (as TA)* is an advanced undergraduate level course for students in the statistics department. The course focuses on the theories and principles of statistical sampling. 
 
-Courses taught:
-
-- STAT 6210: Data Analysis (as TA)
-- STAT 3187: Introduction to Sampling (as TA)
-- STAT 2112: Business Statistics II (as TA)
+*STAT 2112 Business Statistics II (as TA)* is an introductory undergraduate level course for students majoring in the business related programs. It is the second course in a sequence (preceded by STAT 2111) and focuses on methods and applications of statistical inference.
 
 # Workshops
 
-(**More info coming soon**)
+United Nations Secretariat, Office of Internal Oversight Services, Inspection and Evaluation Division. *Principles of Statistical Inference for Program Evaluation, May 16-18, 2023*
+
+- In this 3hr / 3day workshop, I focus on frameworks and approaches to quantitative thinking that can be utilized in mixed-method program evaluations to help determine if, when, and how statistical design and analysis can be incorporated into evaluation theories of change and evaluation reports. 
+
+Simulation SummerSchool. *[Simulation-based inference with R for ANOVA design experiments, June 14, 2021](https://simsummerschool.github.io/index.html)*
+
+- In this 1.5hr workshop, I focus on taking a simulation-based approach to support the design, analysis, and writing of ANOVA-based research projects in the psychological sciences. 

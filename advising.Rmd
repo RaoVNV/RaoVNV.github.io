@@ -1,0 +1,37 @@
+---
+title: Advising and Mentoring
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+Welcome to my `Advising and Mentoring` page! Below, you will find a list of former students and mentees I've worked with and some of the projects we worked on together.
+
+# Undergraduate Students
+
+### Maisie Simpson 
+
+Simpson, M., & Rao, V.N.V. (submitted). Association between generational trauma and progressive dementia types. Minnesota Undergraduate Research & Academic Journal. 
+
+# Graduate Students
+
+### Liz Ancel and Michael Smith
+
+Ancel, E.E., Smith, M.L., Rao, V.N.V., & Munson, B. (in press). Relating Automated Acoustic Measures and Listener Ratings of Children’s Productions of Word-Initial /ɹ/ and /w/. Journal of Speech, Language, and Hearing Research. 
+
+### Nicki May
+
+May, N., & Rao, V.N.V. (2023, June). Cooperative learning in an online asynchronous statistics course: Instructor and student perspectives [Presentation]. 5th Annual University of Minnesota Academic Technology SHAREcase, Minneapolis, Minnesota. 
+
+### Jax Mader
+
+Rao, V.N.V., Mader, J., & Friedlander, E. (2023, July). A framework for the design of gender inclusive activities [Paper Presentation]. 13th Annual Satellite Conference of the International Association for Statistical Education (IASE), Toronto, Ontario, Canada.
+
+### Kimberly Torrey-White
+
+Torrey-White, K., Gary, L., Bergson, A., Flynn, J., Driehorst, M., Siekman, R., Prekker, F., Slusher, T., Maynard, K., Paetox, G., Rao, V.N.V., Hendrickx, L., & Bjorklund, A. (2021, November). A Quality Improvement Project Using Simulation to Improve Nursing Confidence and Skills and Promote Teamwork During High Acuity, Low Occurrence Clinical Events in the Pediatric Intensive Care Unit [Quick Shot Presentation]. Annual Meeting of the Pediatric Trauma Society, Baltimore, MD. 
+
+### Pablo Vivas Corrales
+
+Zieffler, A., & Catalysts for Change. (2022). Pensamiento Estadístico: Un Enfoque de Simulación para Modelar la Incertidumbre (4.3rd ed., P. Vivas Corrales & V.N.V. Rao, Trans.). Minneapolis, MN: Catalyst Press. http://RaoVNV.github.io/pensamiento-estadistico/ 

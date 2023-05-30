@@ -5,9 +5,13 @@ output:
     toc: true
     toc_float: true
 ---
+<!--
+Welcome to my research and scholarship page! Below, you will find information on my interests, links to project pages for my work, and my research values. 
+-->
 
-Welcome to my research and scholarship page! Below, you will find information on my interests, my values, and links to project pages for my work. 
+Welcome to my `Research and Scholarship` page! Below, you will find links to project pages for some of my projects. 
 
+<!--
 # Interests
 
 My work applies theories and methods from the cognitive and learning sciences to investigate the act of learning and doing statistics, and critically examines statistics education research theories and methodologies. 
@@ -19,20 +23,7 @@ I am generally interested in research and scholarship in:
 - learning sciences, 
 - psychometrics, and
 - history of statistics. 
-
-# Values
-
-## Scholarship
-
-A major influence in my development as a researcher and scholar was a book discussing four models of scholarship beyond so-called traditional research^[Boyer, E. L. (1990). *Scholarship reconsidered: Priorities of the professoriate.* Princeton University Press: Lawrenceville, NJ.]. 
-
-My own take on Boyer's ideas is that I want my research to incorporate both theory-generation as well as theory-application. Furthermore, as a statistics education professional, I want my work to include resources to support anyone who wants to use statistical tools, including researchers in other fields. 
-
-While one may consider research as the generation of new knowledge, I do not hold knowledge as the ultimate prize. Whether or not the theory of gravity is true, it is *empowering* -- we can board an airplane and fly around the world. I want my work to be empowering, and as my focus is on statistics education, I want to empower individuals to be able to use statistics.
-
-## Collaboration
-
-My work heavily relies on interdisciplinary collaboration. As Dr. Joan Garfield once said, "I cannot imagine being a sole researcher on any project or keeping ideas to myself" (Garfield, 2013, p. 6)^[Garfield, J. (2013). Cooperative learning revisited: From an instructional method to a way of life. *Journal of Statistics Education, 21*(2).]. To wit, I founded a graduate student organizing called The Link Tank, whose aim is to connect people and ideas (find out more at [z.umn.edu/TheLinkTank](https://z.umn.edu/thelinktank)). You can also read more about my approach to research and scholarship in an article I wrote for SPARK magazine ('[From Happy Hour to Co-Author: How I Found an Academic Home](https://sparkezine.com/2021/04/04/from-happy-hour-to-co-author-how-i-found-an-academic-home/)'). 
+-->
 
 # Project Links
 
@@ -56,4 +47,19 @@ How should instructors navigate context in statistics classes? For more, visit [
 
 How do secondary teachers reason about aesthetic mappings linking complex data structures and modern data visualizations? For more, visit [RaoVNV.github.io/Data-to-Graphs/](/Data-to-Graphs/). 
 
+<!--
+# Values
+
+## Scholarship
+
+A major influence in my development as a researcher and scholar was a book discussing four models of scholarship beyond so-called traditional research^[Boyer, E. L. (1990). *Scholarship reconsidered: Priorities of the professoriate.* Princeton University Press: Lawrenceville, NJ.]. 
+
+My own take on Boyer's ideas is that I want my research to incorporate both theory-generation as well as theory-application. Furthermore, as a statistics education professional, I want my work to include resources to support anyone who wants to use statistical tools, including researchers in other fields. 
+
+While one may consider research as the generation of new knowledge, I do not hold knowledge as the ultimate prize. Whether or not the theory of gravity is true, it is *empowering* -- we can board an airplane and fly around the world. I want my work to be empowering, and as my focus is on statistics education, I want to empower individuals to be able to use statistics.
+
+## Collaboration
+
+My work heavily relies on interdisciplinary collaboration. As Dr. Joan Garfield once said, "I cannot imagine being a sole researcher on any project or keeping ideas to myself" (Garfield, 2013, p. 6)^[Garfield, J. (2013). Cooperative learning revisited: From an instructional method to a way of life. *Journal of Statistics Education, 21*(2).]. To wit, I founded a graduate student organizing called The Link Tank, whose aim is to connect people and ideas (find out more at [z.umn.edu/TheLinkTank](https://z.umn.edu/thelinktank)). You can also read more about my approach to research and scholarship in an article I wrote for SPARK magazine ('[From Happy Hour to Co-Author: How I Found an Academic Home](https://sparkezine.com/2021/04/04/from-happy-hour-to-co-author-how-i-found-an-academic-home/)'). 
+-->
 

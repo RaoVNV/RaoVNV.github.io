@@ -13,7 +13,7 @@
 
 <title>Research and Scholarship</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -63,6 +63,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -140,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -173,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -182,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -308,7 +309,7 @@ div.tocify {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -321,16 +322,19 @@ div.tocify {
   <a href="about.html">About</a>
 </li>
 <li>
-  <a href="education.html">Education</a>
-</li>
-<li>
-  <a href="workexp.html">Work Experience</a>
+  <a href="research.html">Research</a>
 </li>
 <li>
   <a href="teaching.html">Teaching</a>
 </li>
 <li>
-  <a href="research.html">Research</a>
+  <a href="advising.html">Advising</a>
+</li>
+<li>
+  <a href="education.html">Education</a>
+</li>
+<li>
+  <a href="workexp.html">Work Experience</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -357,32 +361,23 @@ div.tocify {
 </div>
 
 
-<p>Welcome to my research and scholarship page! Below, you will find information on my interests, my values, and links to project pages for my work.</p>
-<div id="interests" class="section level1">
-<h1>Interests</h1>
-<p>My work applies theories and methods from the cognitive and learning sciences to investigate the act of learning and doing statistics, and critically examines statistics education research theories and methodologies.</p>
-<p>I am generally interested in research and scholarship in:</p>
-<ul>
-<li>statistics education,</li>
-<li>cognitive sciences,</li>
-<li>learning sciences,</li>
-<li>psychometrics, and</li>
-<li>history of statistics.</li>
-</ul>
-</div>
-<div id="values" class="section level1">
-<h1>Values</h1>
-<div id="scholarship" class="section level2">
-<h2>Scholarship</h2>
-<p>A major influence in my development as a researcher and scholar was a book discussing four models of scholarship beyond so-called traditional research<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>.</p>
-<p>My own take on Boyer’s ideas is that I want my research to incorporate both theory-generation as well as theory-application. Furthermore, as a statistics education professional, I want my work to include resources to support anyone who wants to use statistical tools, including researchers in other fields.</p>
-<p>While one may consider research as the generation of new knowledge, I do not hold knowledge as the ultimate prize. Whether or not the theory of gravity is true, it is <em>empowering</em> – we can board an airplane and fly around the world. I want my work to be empowering, and as my focus is on statistics education, I want to empower individuals to be able to use statistics.</p>
-</div>
-<div id="collaboration" class="section level2">
-<h2>Collaboration</h2>
-<p>My work heavily relies on interdisciplinary collaboration. As Dr. Joan Garfield once said, “I cannot imagine being a sole researcher on any project or keeping ideas to myself” (Garfield, 2013, p. 6)<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a>. To wit, I founded a graduate student organizing called The Link Tank, whose aim is to connect people and ideas (find out more at <a href="https://z.umn.edu/thelinktank">z.umn.edu/TheLinkTank</a>). You can also read more about my approach to research and scholarship in an article I wrote for SPARK magazine (‘<a href="https://sparkezine.com/2021/04/04/from-happy-hour-to-co-author-how-i-found-an-academic-home/">From Happy Hour to Co-Author: How I Found an Academic Home</a>’).</p>
-</div>
-</div>
+<!--
+Welcome to my research and scholarship page! Below, you will find information on my interests, links to project pages for my work, and my research values. 
+-->
+<p>Welcome to my <code>Research and Scholarship</code> page! Below, you will find links to project pages for some of my projects.</p>
+<!--
+# Interests
+
+My work applies theories and methods from the cognitive and learning sciences to investigate the act of learning and doing statistics, and critically examines statistics education research theories and methodologies. 
+
+I am generally interested in research and scholarship in: 
+
+- statistics education,
+- cognitive sciences,
+- learning sciences, 
+- psychometrics, and
+- history of statistics. 
+-->
 <div id="project-links" class="section level1">
 <h1>Project Links</h1>
 <p><em>Note: to return to this site from any of the project pages, click on my name listed under project team.</em></p>
@@ -402,14 +397,22 @@ div.tocify {
 <div id="aesthetic-mappings" class="section level2">
 <h2>Aesthetic Mappings</h2>
 <p>How do secondary teachers reason about aesthetic mappings linking complex data structures and modern data visualizations? For more, visit <a href="/Data-to-Graphs/">RaoVNV.github.io/Data-to-Graphs/</a>.</p>
+<!--
+# Values
+
+## Scholarship
+
+A major influence in my development as a researcher and scholar was a book discussing four models of scholarship beyond so-called traditional research^[Boyer, E. L. (1990). *Scholarship reconsidered: Priorities of the professoriate.* Princeton University Press: Lawrenceville, NJ.]. 
+
+My own take on Boyer's ideas is that I want my research to incorporate both theory-generation as well as theory-application. Furthermore, as a statistics education professional, I want my work to include resources to support anyone who wants to use statistical tools, including researchers in other fields. 
+
+While one may consider research as the generation of new knowledge, I do not hold knowledge as the ultimate prize. Whether or not the theory of gravity is true, it is *empowering* -- we can board an airplane and fly around the world. I want my work to be empowering, and as my focus is on statistics education, I want to empower individuals to be able to use statistics.
+
+## Collaboration
+
+My work heavily relies on interdisciplinary collaboration. As Dr. Joan Garfield once said, "I cannot imagine being a sole researcher on any project or keeping ideas to myself" (Garfield, 2013, p. 6)^[Garfield, J. (2013). Cooperative learning revisited: From an instructional method to a way of life. *Journal of Statistics Education, 21*(2).]. To wit, I founded a graduate student organizing called The Link Tank, whose aim is to connect people and ideas (find out more at [z.umn.edu/TheLinkTank](https://z.umn.edu/thelinktank)). You can also read more about my approach to research and scholarship in an article I wrote for SPARK magazine ('[From Happy Hour to Co-Author: How I Found an Academic Home](https://sparkezine.com/2021/04/04/from-happy-hour-to-co-author-how-i-found-an-academic-home/)'). 
+-->
 </div>
-</div>
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1"><p>Boyer, E. L. (1990). <em>Scholarship reconsidered: Priorities of the professoriate.</em> Princeton University Press: Lawrenceville, NJ.<a href="#fnref1" class="footnote-back">↩︎</a></p></li>
-<li id="fn2"><p>Garfield, J. (2013). Cooperative learning revisited: From an instructional method to a way of life. <em>Journal of Statistics Education, 21</em>(2).<a href="#fnref2" class="footnote-back">↩︎</a></p></li>
-</ol>
 </div>
 
 

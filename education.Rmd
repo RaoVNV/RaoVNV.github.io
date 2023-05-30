@@ -6,7 +6,7 @@ output:
     toc_float: true
 ---
 
-Welcome to my education page! Below, you will find more information about each of the programs of study I have undertaken, and the advisors I have worked with.
+Welcome to my `Education` page! Below, you will find more information about each of the programs of study I have undertaken, and the advisors I have worked with.
 
 # PhD in Educational Psychology 
 
@@ -24,7 +24,7 @@ Program: Psychological Foundations of Education // Concentration: Learning and C
 
 While earning my PhD, I began taking courses from faculty in the [Psychological Foundations of Education](https://www.cehd.umn.edu/edpsych/programs/foundations/) program in the [Department of Educational Psychology](https://www.cehd.umn.edu/edpsych/), focusing on courses such as Mathematical Cognition, Computational Thinking, and Advanced Cognition. 
 
-I soon began working with Dr. Sashank Varma and [Dr. Jeffery Bye](https://www.cehd.umn.edu/people/jbye/) on projects related to the intersection of mathematical cognition and statistics education. I also began working with [Dr. David DeLiema](https://www.cehd.umn.edu/edpsych/people/ddeliema/) on projects related to the intersection of the learning sciences and statistics education (see my [research](https://raovnv.github.io/research.html) for more). To improve my knowledge and skills in the cognitive and learning sciences, I began formal study under the direction of [Dr. Jeffery Bye](https://www.cehd.umn.edu/people/jbye/) and [Dr. David DeLiema](https://www.cehd.umn.edu/edpsych/people/ddeliema/). 
+I soon began working with [Dr. Sashank Varma](https://psychology.gatech.edu/sashank-varma) and [Dr. Jeffery Bye](https://www.cehd.umn.edu/people/jbye/) on projects at the intersection of mathematical cognition and statistics education. I also began working with [Dr. David DeLiema](https://www.cehd.umn.edu/edpsych/people/ddeliema/) on projects at the intersection of the learning sciences and statistics education (see my [research](https://raovnv.github.io/research.html) for more). To improve my knowledge and skills in the cognitive and learning sciences, I began formal study under the direction of [Dr. Jeffery Bye](https://www.cehd.umn.edu/people/jbye/) and [Dr. David DeLiema](https://www.cehd.umn.edu/edpsych/people/ddeliema/). 
 
 My masters paper explored the cognitive foundations of probability underlying statistical reasoning and thinking, specifically in the processing, encoding, and retrieval of semantic and numerical information when presented as *p*-values. 
 
@@ -32,13 +32,12 @@ My masters paper explored the cognitive foundations of probability underlying st
 
 While working for the [US Census Bureau](https://www.census.gov/), I pursued an [MS in Statistics](https://statistics.columbian.gwu.edu/ms-statistics) from the [George Washington University](https://www.gwu.edu/) as a part-time student. My coursework primarily focused on modern data analysis and applied statistics, featuring courses such as Data Mining, Modern Theory of Sample Surveys, and Legal Statistics. 
 
-I worked on some small projects with [Dr. Joseph L.  Gastwirth](https://home.gwu.edu/~jlgast/) and [Dr. Rida Moustafa](https://www.linkedin.com/in/rida-moustafa-a663971a7/), but due to competing priorities from my job (and given that I was not, at that time, considering an academic career), I never presented this work at conferences or produced manuscripts. 
+As a student, I primarly worked with projects in legal statistics with [Dr. Joseph L.  Gastwirth](https://home.gwu.edu/~jlgast/) and projects in data mining with [Dr. Rida Moustafa](https://www.linkedin.com/in/rida-moustafa-a663971a7/). 
 
 # BS in Mathematics
 
 Concentration: Pure Mathematics // Second Major: Economics // Minor: Spanish
 
-Upon graduating high school I had no idea what I wanted to do for a career, but I always loved numbers and mathematics came easy, so I figured I'd major in mathematics. I soon fell in love with it, after taking an Introduction to Mathematical Logic. I particularly loved taking Abstract Algebra and Number Theory. Along the way I also picked up a double major in Economics, spent some time as pre-med (and obtained an EMT-B and CPR Instructor license along the way), and also minored in Spanish (and spent a summer in Granada, Spain). 
+Even as a young child I always loved numbers and mathematics came easy. As an undergraduate student, I fell in love with theoretical mathematics. I particularly loved taking Abstract Algebra and Number Theory. 
 
-As I neared graduation, I still was uncertain what I wanted for a career. I took the LSAT and applied to law schools, I took the GRE and the GRE Math subject test and applied for PhD programs in Mathematics as well as some in Economics, and I also started applying for jobs. I eventually received an offer to work for the US Census Bureau and decided to try working for a little before committing to graduate school. 
-
+Along the way I also picked up a double major in Economics, spent some time as pre-med (and obtained an EMT-B and CPR Instructor license along the way), and also minored in Spanish (and spent a summer in Granada, Spain). 
