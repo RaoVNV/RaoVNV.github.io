@@ -12,7 +12,7 @@ Welcome to my `About Me` page! Below, you will find information about my researc
 
 My research investigates the psychology of statistics. That is, what does it mean to do statistics, and how does one learn to do this? 
 
-My primary research interests draw on theories and methods from the cognitive and learning sciences to investigate various aspects of statistical thinking. I also collaborate with many statistics educators, drawing on design based research methods to consider how instructors can use contexts in their classroom to promote inclusivity and other affective outcomes. Together, both strands of my work intertwine in my desire to develop a holistic social cognitive theory of statistical thinking. 
+My primary research interests draw on theories and methods from the cognitive and learning sciences to investigate various aspects of statistical thinking. I also collaborate with many statistics educators, drawing on design based research methods to consider how instructors can use contexts in their classroom to promote inclusivity and other affective outcomes. Together, both strands of my work intertwine in my desire to develop a holistic social cognitive theory of statistical thinking. Specifically, I work towards radically reimaging how statistics is taught, in terms of both *what* is taught and *how* it is taught. 
 
 <!--  To read more about my research during this time period, download a copy of my research statement from 2022 [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_Research.pdf). -->
 
@@ -34,21 +34,22 @@ To read more about the way my values influence me, download a copy of my EDI sta
 
 # Advising
 
-I believe my role as an advisor is to unlock the potential within each of my advisees. There are four dimensions along which I seek to support and mentor advisees, which I call the ABCDs of becoming a scholar: 
+I believe my role as an advisor is to unlock the potential within each of my advisees. There are four dimensions along which I seek to support and mentor advisees, which I call the ABCDs of becoming a scholar. A scholar must be an **a**utodidact, **b**elieve in themselves, be **c**urious, and be **d**riven. 
 
+<!-- 
 A scholar must: 
 
 - be an **A**utodidact. One must love learning. This requires one to seek out information and spend the necessary time reflecting upon and processing this information to help gain new insights. 
 - **B**elieve in themselves. To generate new insights and new knowledge requires developing an idea that no one has had before. Others may not see the value in your ideas, but this should never be a deterrent. You must believe in yourself and pursue your ideas without hesitation. Whether or not others adopt your ideas is up to them -- your duty as a scholar is to show them new possibilities. 
 - be **C**urious. All scholarship starts with curiosity, and asking a question such as `I wonder what's going on here?` or `I wonder why this happens?`. A scholar needs to have a keen and curious eye in order to generate new knowledge that can help explain the universe and human existence. 
 - be **D**riven. The path to generating and spreading new knowledge is fraught with difficulty. To be a scholar, you have to dedicate yourself to a life of learning, knowledge, and the spread of knowledge. This means that no matter what obstacles emerge, you have to be driven to overcome them. 
+-->
 
 As an advisor, I share my experiences along these four dimensions with my advisees, and show them how I enact the process of scholarship. I invite them to do the same, and help to mentor them in learning what they love, developing self-confidence, noticing curious intricacies, and driving towards new knowledge. 
 
-
 # Curriculum Vitae
 
-Last Update: Dec 2022
+Last Update: June 2023
 
 To download a copy of my CV, click [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_CV.pdf).
 
