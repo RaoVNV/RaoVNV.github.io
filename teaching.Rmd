@@ -8,6 +8,10 @@ output:
 
 Welcome to my `Teaching and Training` page! Below, you will find a list of courses I've taught along with example syllabi. 
 
+# University of Illinois
+
+*Stat 100 Statistics* is an introductory undergraduate level statistics course for students of any and all majors. The course focuses on the basic principles of statistics. 
+
 # University of Minnesota
 
 *EPSY 5261 Introductory Statistical Methods* is an introductory master's level statistics course for students in the educational, psychological, and health sciences. The course focuses the basic principles of statistical inference.

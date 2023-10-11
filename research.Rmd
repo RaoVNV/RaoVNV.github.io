@@ -11,19 +11,11 @@ Welcome to my research and scholarship page! Below, you will find information on
 
 Welcome to my `Research and Scholarship` page! Below, you will find links to project pages for some of my projects. 
 
-<!--
+
 # Interests
 
 My work applies theories and methods from the cognitive and learning sciences to investigate the act of learning and doing statistics, and critically examines statistics education research theories and methodologies. 
 
-I am generally interested in research and scholarship in: 
-
-- statistics education,
-- cognitive sciences,
-- learning sciences, 
-- psychometrics, and
-- history of statistics. 
--->
 
 # Project Links
 

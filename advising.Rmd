@@ -10,6 +10,14 @@ Welcome to my `Advising and Mentoring` page! Below, you will find a list of form
 
 # Undergraduate Students
 
+### Shubh Goyal
+
+*Shubh worked with me as part of the [UIUC Undergraduate Research Experience in Statistics](https://stat.illinois.edu/research/undergraduate-research) (URES) program in Fall 2023. Shubh investigated individual differences in how humans cluster points, building off of previous research I had conducted^[see Marupudi et al., 2021, in the Conference Proceedings Papers section of my cv].* 
+
+### Vishnu Sai
+
+*Vishnu worked with me as part of the [UIUC Undergraduate Research Experience in Statistics](https://stat.illinois.edu/research/undergraduate-research) (URES) program in Fall 2023. Vishnu investigated psychological factors associated with purchasing life insurance.*
+
 ### Maisie Simpson 
 
 *Maisie took one of my statistics classes as an undergraduate. A year later, we reconnected when Maisie was a senior to work together on a senior capstone, which we subsequently turned into research poster and a paper for a peer-reviewed undergraduate research journal.*
