@@ -16,16 +16,45 @@ Welcome to my `Research and Scholarship` page! Below, you will find links to pro
 
 My work applies theories and methods from the cognitive and learning sciences to investigate the act of learning and doing statistics, and critically examines statistics education research theories and methodologies. 
 
+Generally speaking, my work falls into one of two categories: 
 
-# Project Links
+- investigations of the cognitive processes underlying statistical thinking, and
+- design-based educational research to develop new statistics pedagogies. 
+
+
+# Cognitive-Focused Projects
 
 *Note: to return to this site from any of the project pages, click on my name listed under project team.*
 
 **More project links coming soon**
 
-## Categorizing *p*-values
+## Harnessing GPT Technologies to Develop Students' Statistical and Computational Thinking
+
+What computational thinking skills are needed in order to successfully utilize generative AI applications to complete statistical and data related tasks? How can these technologies help broaden participation in STEM? For more, visit [link coming soon](). 
+
+## Categorization of Statistical Measures
 
 How do the *statistically significant* and *not statistically significant* category labels affect our cognition of *p*-values? For more, visit [RaoVNV.github.io/p-values/](/p-values/).
+
+## Human Clustering
+
+How do humans cluster sets of points? Is their clustering reliable? What individual and group differences are there in human clustering? What other cognitive processes is clustering related to? For more, visit [link coming soon]().
+
+# Design-Based Projects
+
+## Aesthetic Mappings
+
+How do secondary teachers reason about aesthetic mappings linking complex data structures and modern data visualizations? For more, visit [RaoVNV.github.io/Data-to-Graphs/](/Data-to-Graphs/). 
+
+## Biostatistical Literacy
+
+What is biostatistical literacy, and how can we promote students' biostatistical literacy skills? For more, visit [RaoVNV.github.io/BiostatLiteracyProject](/BiostatLiteracyProject/).
+
+## Gender Inclusivity
+
+How should we incorporate and discuss gender as an attribute in datasets used in instruction and practice in STEM courses? For more, visit [https://raovnv.github.io/GenderInclusivity/](/GenderInclusivity/).
+
+<!--
 
 ## Social Justice in Statistics
 
@@ -35,11 +64,7 @@ How can instructors incorporate social justice initiatives into statistics and d
 
 How should instructors navigate context in statistics classes? For more, visit [RaoVNV.github.io/Contexts/](/Contexts/). 
 
-## Aesthetic Mappings
 
-How do secondary teachers reason about aesthetic mappings linking complex data structures and modern data visualizations? For more, visit [RaoVNV.github.io/Data-to-Graphs/](/Data-to-Graphs/). 
-
-<!--
 # Values
 
 ## Scholarship

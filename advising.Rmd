@@ -10,36 +10,27 @@ Welcome to my `Advising and Mentoring` page! Below, you will find a list of form
 
 # Undergraduate Students
 
-### Shubh Goyal
+2024: 
 
-*Shubh worked with me as part of the [UIUC Undergraduate Research Experience in Statistics](https://stat.illinois.edu/research/undergraduate-research) (URES) program in Fall 2023. Shubh investigated individual differences in how humans cluster points, building off of previous research I had conducted^[see Marupudi et al., 2021, in the Conference Proceedings Papers section of my cv].* 
+- Priyadharshini Sriramlatha and Aparajita Vemuri: The influence of personality on learning statistics
+- Bhuvan Kala, Julianna Drew, and Sanjana Gongati: Statistical computational thinking with ChatGPT
 
-### Vishnu Sai
+2023: 
 
-*Vishnu worked with me as part of the [UIUC Undergraduate Research Experience in Statistics](https://stat.illinois.edu/research/undergraduate-research) (URES) program in Fall 2023. Vishnu investigated psychological factors associated with purchasing life insurance.*
+- Shubh Goyal: Individual differences in human clustering.
+- Vishnu Sadhu: Psychological factors associated with purchasing life insurance.
 
-### Maisie Simpson 
+2022: 
 
-*Maisie took one of my statistics classes as an undergraduate. A year later, we reconnected when Maisie was a senior to work together on a senior capstone, which we subsequently turned into research poster and a paper for a peer-reviewed undergraduate research journal.*
-
-Simpson, M., & Rao, V.N.V. (submitted). Association between generational trauma and progressive dementia types. Minnesota Undergraduate Research & Academic Journal. 
+- Maisie Simpson: Association between generational trauma and progressive dementia types.
 
 # Graduate Students
 
-### Liz Ancel and Michael Smith
+2023: 
 
-*Liz and Michael took one of my statistics classes as first year graduate students. We built off of their class project, turning it into a research poster and subsequently a peer reviewed journal paper.*
+- Nicki May: Cooperative learning in an online asynchronous statistics course: Instructor and student perspectives.
+- Pablo Vivas Corrales: Pensamiento Estadístico: Un Enfoque de Simulación para Modelar la Incertidumbre.
 
-Ancel, E.E., Smith, M.L., Rao, V.N.V., & Munson, B. (in press). Relating Automated Acoustic Measures and Listener Ratings of Children’s Productions of Word-Initial /ɹ/ and /w/. Journal of Speech, Language, and Hearing Research. 
+2022: 
 
-### Nicki May
-
-*Nicki took one of my statistics classes as a graduate student. A year later we reconnected to collaborate on a conference presentation and begin working on a journal paper.*
-
-May, N., & Rao, V.N.V. (2023, June). Cooperative learning in an online asynchronous statistics course: Instructor and student perspectives [Presentation]. 5th Annual University of Minnesota Academic Technology SHAREcase, Minneapolis, Minnesota. 
-
-### Pablo Vivas Corrales
-
-*Pablo joined the graduate program at the University of Minnesota, the same program from which I graduated. We worked together to translate a textbook into Spanish.*
-
-Zieffler, A., & Catalysts for Change. (2022). Pensamiento Estadístico: Un Enfoque de Simulación para Modelar la Incertidumbre (4.3rd ed., P. Vivas Corrales & V.N.V. Rao, Trans.). Minneapolis, MN: Catalyst Press. http://RaoVNV.github.io/pensamiento-estadistico/ 
+- Liz Ancel and Michael Smith: Relating Automated Acoustic Measures and Listener Ratings of Children’s Productions of Word-Initial /ɹ/ and /w/. 

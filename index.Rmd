@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <img style="float: left; margin: 0 15px 0 0" src="img/profilepic.jpg" />
 
-Hello! My name is V.N. Vimal Rao. I am a Statistician and Educational Psychologist, currently at the [Department of Statistics](https://stat.illinois.edu/) at the [University of Illinois in Urbana-Champaign](https://illinois.edu/). 
+Hello! My name is V.N. Vimal Rao. I am a Statistician and Educational Psychologist, currently at the [Department of Statistics](https://stat.illinois.edu/) and [Department of Educational Psychology](https://education.illinois.edu/edpsy) at the [University of Illinois in Urbana-Champaign](https://illinois.edu/). 
 
 My main interests are in the psychology of statistics: what does it mean to *do* statistics, and how does one *learn to do* statistics? 
 

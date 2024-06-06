@@ -6,7 +6,7 @@ output:
     toc_float: true
 ---
 
-Welcome to my `About Me` page! Below, you will find information about my research, teaching, advising, and my CV. 
+Welcome to my `About Me` page! Below, you will find information about my research, teaching, advising, and a copy of my CV. 
 
 # Research 
 
@@ -30,11 +30,11 @@ To read more about my teaching, download a copy of my teaching statement from 20
 
 நான் யார்? [naan yaar] In Tamil, this question famously asked by the Saint Sri Ramana Maharishi simply asks, “Who am I?”. Together with the answer from the Yajur Veda, अहम् ब्रह्मास्मि [aham brahmaasmi], “I am Brahman”, this question fuels my drive to try to see myself in everything and everyone, and share my knowledge to help empower my fellow humans. 
 
-To read more about the way my values influence me, download a copy of my EDI statement from 2022 [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_EDI_2pg.pdf).
+To read more about the way my values influence my research, teaching, and advising, download a copy of my EDI statement from 2022 [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_EDI_2pg.pdf).
 
 # Advising
 
-I believe my role as an advisor is to unlock the potential within each of my advisees. There are four dimensions along which I seek to support and mentor advisees, which I call the ABCDs of becoming a scholar. A scholar must be an **a**utodidact, **b**elieve in themselves, be **c**urious, and be **d**riven. 
+I believe my role as an advisor is to unlock the potential within each of my advisees. There are four dimensions along which I seek to support and mentor advisees, which I call the ABCDs of becoming a scholar. A scholar must be **a**utodidactic, **b**elieve in themselves, be **c**urious, and be **d**riven. 
 
 <!-- 
 A scholar must: 
@@ -49,7 +49,7 @@ As an advisor, I share my experiences along these four dimensions with my advise
 
 # Curriculum Vitae
 
-Last Update: Dec 2023
+Last Update: June 2024
 
 To download a copy of my CV, click [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_CV.pdf).
 
