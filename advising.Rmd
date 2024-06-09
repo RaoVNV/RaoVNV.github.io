@@ -12,9 +12,10 @@ Welcome to my `Advising and Mentoring` page! Below, you will find a list of form
 
 2024: 
 
-- Priyadharshini Sriramlatha and Aparajita Vemuri: The influence of personality on learning statistics
-- Bhuvan Kala, Julianna Drew, and Sanjana Gongati: Computational thinking with data
-- Daniel Hogan: Mind wandering when learning statistics
+- Madeline Hunt: Building a Modern Assessment for Statistical Literacy.
+- Priyadharshini Sriramlatha and Aparajita Vemuri: The influence of personality on learning statistics.
+- Bhuvan Kala, Julianna Drew, and Sanjana Gongati: Computational thinking with data.
+- Daniel Hogan: Mind wandering when learning statistics.
 
 2023: 
 
@@ -30,7 +31,7 @@ Welcome to my `Advising and Mentoring` page! Below, you will find a list of form
 
 2024: 
 
-- Maisha Ahasan: The impact of student-teacher racial identity congruence on students' sense of belonging.
+- Maisha Ahasan: The impact of teacher-student racial identity congruence on students' sense of belonging.
 - Amos Jeng: Harnessing GPT Technologies to Develop Students' Statistical and Computational Thinking.
 
 

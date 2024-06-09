@@ -63,6 +63,11 @@ What is biostatistical literacy, and how can we promote students' biostatistical
 How should we incorporate and discuss gender as an attribute in datasets used in instruction and practice in STEM courses? For more, visit [https://raovnv.github.io/GenderInclusivity/](/GenderInclusivity/).
 
 
+### Building a Modern Assessment for Statistical Literacy
+
+The [2016 GAISE Guidelines](https://www.amstat.org/docs/default-source/amstat-documents/gaisecollege_full.pdf) call for the incorporation of multivariable thinking into introductory statistics curricula. How can we measure the efficacy of curricula in developing these skills, and how can we measure students' multivariable thinking abilities? For more, visit [link coming soon]().
+
+
 ### Vedic Inspired Pedagogies
 
 The Vedas and BhagavadGita contain essential lessons for all humanity. How can we borrow and apply pedagogical strategies from these timeless works to any subject we teach, including statistics? For more, visit [link coming soon]().
