@@ -13,12 +13,14 @@ Welcome to my `Advising and Mentoring` page! Below, you will find a list of form
 2024: 
 
 - Priyadharshini Sriramlatha and Aparajita Vemuri: The influence of personality on learning statistics
-- Bhuvan Kala, Julianna Drew, and Sanjana Gongati: Statistical computational thinking with ChatGPT
+- Bhuvan Kala, Julianna Drew, and Sanjana Gongati: Computational thinking with data
+- Daniel Hogan: Mind wandering when learning statistics
 
 2023: 
 
 - Shubh Goyal: Individual differences in human clustering.
 - Vishnu Sadhu: Psychological factors associated with purchasing life insurance.
+
 
 2022: 
 
@@ -26,10 +28,17 @@ Welcome to my `Advising and Mentoring` page! Below, you will find a list of form
 
 # Graduate Students
 
+2024: 
+
+- Maisha Ahasan: The impact of student-teacher racial identity congruence on students' sense of belonging.
+- Amos Jeng: Harnessing GPT Technologies to Develop Students' Statistical and Computational Thinking.
+
+
 2023: 
 
 - Nicki May: Cooperative learning in an online asynchronous statistics course: Instructor and student perspectives.
 - Pablo Vivas Corrales: Pensamiento Estadístico: Un Enfoque de Simulación para Modelar la Incertidumbre.
+
 
 2022: 
 
