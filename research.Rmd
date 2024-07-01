@@ -13,7 +13,7 @@ Welcome to my `Research and Scholarship` page! Below, you will find links to pro
 
 *Note: to return to this site from any of the project pages, click on my name listed under project team.*
 
-
+<br>
 
 # Interests
 
@@ -25,48 +25,57 @@ Generally speaking, my work falls into one of two categories:
 - design-based educational research to develop new statistics pedagogies. 
 
 
+<br> 
 
 # Cognitive-Focused Projects
 
+<br> 
 
 ### Harnessing GPT Technologies to Develop Students' Statistical and Computational Thinking
 
 What computational thinking skills are needed in order to successfully utilize generative AI applications to complete statistical and data related tasks? How can these technologies help broaden participation in STEM? For more, visit [link coming soon](). 
 
+<br> 
 
 ### Categorization of Statistical Measures
 
 How do the *statistically significant* and *not statistically significant* category labels affect our cognition of statistical measures like *p*-values and Cohen's *d* effect sizes? For more, visit [RaoVNV.github.io/p-values/](/p-values/).
 
+<br>
 
 ### Human Clustering
 
 How do humans cluster sets of points? Is their clustering reliable? What individual and group differences are there in human clustering? What other cognitive processes is clustering related to? For more, visit [RaoVNV.github.io/clustering/](/clustering/).
 
-
+<br>
 
 # Design-Based Projects
 
+<br> 
 
 ### Aesthetic Mappings
 
 How do secondary teachers reason about aesthetic mappings linking complex data structures and modern data visualizations? For more, visit [RaoVNV.github.io/Data-to-Graphs/](/Data-to-Graphs/). 
 
+<br>
 
 ### Biostatistical Literacy
 
 What is biostatistical literacy, and how can we promote students' biostatistical literacy skills? For more, visit [RaoVNV.github.io/BiostatLiteracyProject](/BiostatLiteracyProject/).
 
+<br>
 
 ### Gender Inclusivity
 
 How should we incorporate and discuss gender as an attribute in datasets used in instruction and practice in STEM courses? For more, visit [https://raovnv.github.io/GenderInclusivity/](/GenderInclusivity/).
 
+<br>
 
 ### Building a Modern Assessment for Statistical Literacy
 
 The [2016 GAISE Guidelines](https://www.amstat.org/docs/default-source/amstat-documents/gaisecollege_full.pdf) call for the incorporation of multivariable thinking into introductory statistics curricula. How can we measure the efficacy of curricula in developing these skills, and how can we measure students' multivariable thinking abilities? For more, visit [link coming soon]().
 
+<br>
 
 ### Vedic Inspired Pedagogies
 
