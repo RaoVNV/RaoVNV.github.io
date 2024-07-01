@@ -41,7 +41,7 @@ How do the *statistically significant* and *not statistically significant* categ
 
 ### Human Clustering
 
-How do humans cluster sets of points? Is their clustering reliable? What individual and group differences are there in human clustering? What other cognitive processes is clustering related to? For more, visit [link coming soon](/clustering/).
+How do humans cluster sets of points? Is their clustering reliable? What individual and group differences are there in human clustering? What other cognitive processes is clustering related to? For more, visit [RaoVNV.github.io/clustering/](/clustering/).
 
 
 
