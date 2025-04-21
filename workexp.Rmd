@@ -6,7 +6,7 @@ output:
     toc_float: true
 ---
 
-Welcome to my work experience page! Below, you will find details about each of the full time jobs I've held. 
+Welcome to my work experience page! Below, you will find information about each of the full time jobs I've held outside of academia. 
 
 # Chief of Data Management and Analysis
 

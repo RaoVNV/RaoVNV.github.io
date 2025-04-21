@@ -20,8 +20,6 @@ navbar:
   right: 
     - text: "Email"
       href: mailto:<RaoVNV@Illinois.edu>
-    - text: "Twitter"
-      href: https://twitter.com/RaoVNV/
     - text: "GitHub"
       href: http://github.com/RaoVNV/
 output:

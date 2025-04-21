@@ -32,7 +32,7 @@ My masters paper explored the cognitive foundations of probability underlying st
 
 While working for the [US Census Bureau](https://www.census.gov/), I pursued an [MS in Statistics](https://statistics.columbian.gwu.edu/ms-statistics) from the [George Washington University](https://www.gwu.edu/) as a part-time student. My coursework primarily focused on modern data analysis and applied statistics, featuring courses such as Data Mining, Modern Theory of Sample Surveys, and Legal Statistics. 
 
-As a student, I primarly worked with projects in legal statistics with [Dr. Joseph L.  Gastwirth](https://home.gwu.edu/~jlgast/) and projects in data mining with [Dr. Rida Moustafa](https://www.linkedin.com/in/rida-moustafa-a663971a7/). 
+As a student, I primarily worked with projects in legal statistics with [Dr. Joseph L.  Gastwirth](https://statistics.columbian.gwu.edu/joseph-gastwirth) and projects in data mining with [Dr. Rida Moustafa](https://www.linkedin.com/in/rida-moustafa-a663971a7/). 
 
 # BS in Mathematics
 

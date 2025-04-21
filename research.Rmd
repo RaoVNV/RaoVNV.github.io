@@ -24,10 +24,15 @@ Generally speaking, my work falls into one of two categories:
 - investigations of the cognitive processes underlying statistical thinking, and
 - design-based educational research to develop new statistics pedagogies. 
 
-
 <br> 
 
-# Cognitive-Focused Projects
+#### Interested in collaborating with me? 
+
+As Dr. Joan Garfield once said, "I cannot imagine being a sole researcher on any project or keeping ideas to myself" (Garfield, 2013, p. 6)^[Garfield, J. (2013). Cooperative learning revisited: From an instructional method to a way of life. *Journal of Statistics Education, 21*(2).]. 
+
+If you're a statistician looking for a psychologist, or a psychologist looking for a statistics, or generally interested in collaborating on research in statistical cognition or statistics education, I would love to set a time to chat with you. 
+
+# Active Projects
 
 <br> 
 
@@ -37,11 +42,21 @@ What computational thinking skills are needed in order to successfully utilize g
 
 <br> 
 
+### Building a Modern Assessment for Statistical Literacy
+
+The [2016 GAISE Guidelines](https://www.amstat.org/docs/default-source/amstat-documents/gaisecollege_full.pdf) call for the incorporation of multivariable thinking into introductory statistics curricula. How can we measure the efficacy of curricula in developing these skills, and how can we measure students' multivariable thinking abilities? For more, visit [link coming soon]().
+
+<br>
+
 ### Categorization of Statistical Measures
 
 How do the *statistically significant* and *not statistically significant* category labels affect our cognition of statistical measures like *p*-values and Cohen's *d* effect sizes? For more, visit [RaoVNV.github.io/p-values/](/p-values/).
 
 <br>
+
+# Completed Projects
+
+<br> 
 
 ### Human Clustering
 
@@ -49,9 +64,7 @@ How do humans cluster sets of points? Is their clustering reliable? What individ
 
 <br>
 
-# Design-Based Projects
-
-<br> 
+<!--
 
 ### Aesthetic Mappings
 
@@ -71,17 +84,11 @@ How should we incorporate and discuss gender as an attribute in datasets used in
 
 <br>
 
-### Building a Modern Assessment for Statistical Literacy
-
-The [2016 GAISE Guidelines](https://www.amstat.org/docs/default-source/amstat-documents/gaisecollege_full.pdf) call for the incorporation of multivariable thinking into introductory statistics curricula. How can we measure the efficacy of curricula in developing these skills, and how can we measure students' multivariable thinking abilities? For more, visit [link coming soon]().
-
-<br>
-
 ### Vedic Inspired Pedagogies
 
 The Vedas and BhagavadGita contain essential lessons for all humanity. How can we borrow and apply pedagogical strategies from these timeless works to any subject we teach, including statistics? For more, visit [link coming soon]().
 
-<!--
+
 
 ## Social Justice in Statistics
 

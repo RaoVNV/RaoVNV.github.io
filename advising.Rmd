@@ -8,13 +8,26 @@ output:
 
 Welcome to my `Advising and Mentoring` page! Below, you will find a list of former students and mentees I've worked with and some of the projects we worked on together.
 
+# Current Openings
+
+For the Fall 2025 semester: I currently do not have any openings for new graduate nor undergraduate RAs. 
+
 # Undergraduate Students
+
+2025: 
+
+- Reem Kharfan: Developing students' statistical literacy habits of mind
+- Madeline Hunt and Samin Hemani: The relationship between students' tolerance of uncertainty and statistics' understanding
+- Aman Ravishankar: Debate activities to promote students' critical thinking in statistics
+- Mia Petrie and Madeline Hunt: Building a Modern Assessment for Statistical Literacy.
+- Samhita Periyanayaham: A culture-specific therapy program for individuals with anxiety disorders in south India
+- Alexandra Stoica: Word perception of personality disorder diagnostic criteria
+- Ella Hiles: Studying the impact of the TikTok ban on Gen Z's social and mental health
 
 2024: 
 
-- Madeline Hunt: Building a Modern Assessment for Statistical Literacy.
 - Priyadharshini Sriramlatha and Aparajita Vemuri: The influence of personality on learning statistics.
-- Bhuvan Kala, Julianna Drew, and Sanjana Gongati: Computational thinking with data.
+- Bhuvan Kala, Julianna Drew, and Sanjana Gongati: Harnessing AI to develop students' statistical thinking.
 - Daniel Hogan: Mind wandering when learning statistics.
 
 2023: 
@@ -29,18 +42,10 @@ Welcome to my `Advising and Mentoring` page! Below, you will find a list of form
 
 # Graduate Students
 
+2025: 
+
+- Laura Bandi: Latent change score modeling of students' propensity to pursue statistics and data science. 
+
 2024: 
 
 - Maisha Ahasan: The impact of teacher-student racial identity congruence on students' sense of belonging.
-- Amos Jeng: Harnessing GPT Technologies to Develop Students' Statistical and Computational Thinking.
-
-
-2023: 
-
-- Nicki May: Cooperative learning in an online asynchronous statistics course: Instructor and student perspectives.
-- Pablo Vivas Corrales: Pensamiento Estadístico: Un Enfoque de Simulación para Modelar la Incertidumbre.
-
-
-2022: 
-
-- Liz Ancel and Michael Smith: Relating Automated Acoustic Measures and Listener Ratings of Children’s Productions of Word-Initial /ɹ/ and /w/. 
