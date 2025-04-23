@@ -42,9 +42,9 @@ What computational thinking skills are needed in order to successfully utilize g
 
 <br> 
 
-### Building a Modern Assessment for Statistical Literacy
+### Authentic Statistical Graphical Literacy
 
-The [2016 GAISE Guidelines](https://www.amstat.org/docs/default-source/amstat-documents/gaisecollege_full.pdf) call for the incorporation of multivariable thinking into introductory statistics curricula. How can we measure the efficacy of curricula in developing these skills, and how can we measure students' multivariable thinking abilities? For more, visit [link coming soon]().
+However, graphs we see in our every day lives are often quite different than the graphs students are exposed to in introductory statistics courses. Can students interpret what *authentic* graphs they may see in their every days do and do not reveal? How we can measure their skills in doing so? How to support the development of these skills? For more, visit [RaoVNV.github.io/authenticliteracy/](/authenticliteracy/).
 
 <br>
 
