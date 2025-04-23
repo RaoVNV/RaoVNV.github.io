@@ -48,13 +48,6 @@ However, graphs we see in our every day lives are often quite different than the
 
 <br>
 
-### Categorization of Statistical Measures
-
-How do the *statistically significant* and *not statistically significant* category labels affect our cognition of statistical measures like *p*-values and Cohen's *d* effect sizes? For more, visit [RaoVNV.github.io/p-values/](/p-values/).
-
-<br>
-
-
 ### Accepting Uncertainty
 
 Statistics is not a set of this-or-that rules. It is all about uncertainty and variability. A key component of statistical thinking is to accept this inherent uncertainty. How ready are students to do this? How accepting of uncertainty to they walk out of statistics classes? Are students' views about statistics consistent with statisticians' views? For more, visit [RaoVNV.github.io/acceptuncertainty](/acceptuncertainty/).
@@ -64,6 +57,12 @@ Statistics is not a set of this-or-that rules. It is all about uncertainty and v
 # Completed Projects
 
 <br> 
+
+### Categorization of Statistical Measures
+
+How do the *statistically significant* and *not statistically significant* category labels affect our cognition of statistical measures like *p*-values and Cohen's *d* effect sizes? For more, visit [RaoVNV.github.io/p-values/](/p-values/).
+
+<br>
 
 ### Human Clustering
 
