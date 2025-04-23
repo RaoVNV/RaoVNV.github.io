@@ -54,6 +54,13 @@ How do the *statistically significant* and *not statistically significant* categ
 
 <br>
 
+
+### Accepting Uncertainty
+
+Statistics is not a set of this-or-that rules. It is all about uncertainty and variability. A key component of statistical thinking is to accept this inherent uncertainty. How ready are students to do this? How accepting of uncertainty to they walk out of statistics classes? Are students' views about statistics consistent with statisticians' views? For more, visit [link coming soon]().
+
+<br>
+
 # Completed Projects
 
 <br> 
