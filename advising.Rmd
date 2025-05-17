@@ -10,42 +10,49 @@ Welcome to my `Advising and Mentoring` page! Below, you will find a list of form
 
 # Current Openings
 
-For the Fall 2025 semester: I currently do not have any openings for new graduate nor undergraduate RAs. 
+Summer 2025: None
+
+Fall 2025: 1 position for an hourly graduate RA with advanced python skills to support students related to my clustering project (see my research page for more).
+
+
+<br> 
 
 # Undergraduate Students
 
 2025: 
 
-- Reem Kharfan: Developing students' statistical literacy habits of mind
-- Madeline Hunt and Samin Hemani: The relationship between students' tolerance of uncertainty and statistics' understanding
-- Aman Ravishankar: Debate activities to promote students' critical thinking in statistics
-- Mia Petrie and Madeline Hunt: Building a Modern Assessment for Statistical Literacy.
-- Samhita Periyanayaham: A culture-specific therapy program for individuals with anxiety disorders in south India
-- Alexandra Stoica: Word perception of personality disorder diagnostic criteria
-- Ella Hiles: Studying the impact of the TikTok ban on Gen Z's social and mental health
+- [Ella Hiles](https://www.linkedin.com/in/ella-hiles-281b492a5/): Studying the impact of the TikTok ban on Gen Z's social and mental health^[Winner of the 2025 Undergraduate Research Symposium Award for Outstanding Oral Presentation]
+- [Alexandra Stoica](https://www.linkedin.com/in/alexandra-stoica-b309b4252/): Word perception of personality disorder diagnostic criteria
+- Mia Petrie and [Madeline Hunt](https://www.linkedin.com/in/madeline-hunt-929132276/): Building a modern assessment for statistical graphic literacy
+- [Madeline Hunt](https://www.linkedin.com/in/madeline-hunt-929132276/) and [Samin Hemani](https://www.linkedin.com/in/samin-hemani-6a5a71293/): The relationship between students' tolerance of uncertainty and statistics understanding
+- [Reem Kharfan](https://www.linkedin.com/in/reem-kharfan-b8820b215/): Developing students' statistical literacy habits of mind
+- [Aman Ravishankar](https://www.linkedin.com/in/aman-ravi-2405lhj/): Debate activities to promote students' statistical thinking
+- [Samhita Periyanayaham](https://www.linkedin.com/in/samhita-periyanayaham-13b64629a/): A culture-specific therapy program for individuals with anxiety disorders
 
 2024: 
 
-- Priyadharshini Sriramlatha and Aparajita Vemuri: The influence of personality on learning statistics.
-- Bhuvan Kala, Julianna Drew, and Sanjana Gongati: Harnessing AI to develop students' statistical thinking.
-- Daniel Hogan: Mind wandering when learning statistics.
+- [Priyadharshini Sriramlatha](https://www.linkedin.com/in/pdsl/) and [Aparajita Vemuri](https://www.linkedin.com/in/aparajitavemuri/): The influence of personality on learning statistics
+- [Bhuvan Kala](https://www.linkedin.com/in/bhuvan-kala-072372216/), [Julianna Drew](https://www.linkedin.com/in/julianna-drew-96ba78286/), and [Sanjana Gongati](https://www.linkedin.com/in/sanjana-gongati/): Harnessing AI to develop students' statistical thinking
+- [Daniel Hogan](https://www.linkedin.com/in/daniel-hogan-a9a17b352/): Mind wandering when learning statistics
 
 2023: 
 
-- Shubh Goyal: Individual differences in human clustering.
-- Vishnu Sadhu: Psychological factors associated with purchasing life insurance.
-
+- [Shubh Goyal](https://www.linkedin.com/in/shubh-goyal-33a070220/): Individual differences in human clustering
+- [Vishnu Sadhu](https://www.linkedin.com/in/vishnu-sadhu-ab67491b4/): Psychological factors associated with purchasing life insurance
 
 2022: 
 
-- Maisie Simpson: Association between generational trauma and progressive dementia types.
+- [Maisie Simpson](https://www.linkedin.com/in/maisie-simpson-1b4b491aa/): Association between generational trauma and progressive dementia types
+
+<br> 
 
 # Graduate Students
 
 2025: 
 
-- Laura Bandi: Latent change score modeling of students' propensity to pursue statistics and data science. 
+- [Laura Bandi](https://laurambandi.com/): Latent change score modeling of students' propensity to pursue statistics and data science
+- [Amos Jeng](https://amosjeng.com/) and [Tiffany Reyes Denis](https://www.linkedin.com/in/reyesdenis/): Harnessing AI to develop students' statistical thinking
 
 2024: 
 
-- Maisha Ahasan: The impact of teacher-student racial identity congruence on students' sense of belonging.
+- Maisha Ahasan: The impact of teacher-student identity congruence on students' sense of belonging

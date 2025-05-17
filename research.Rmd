@@ -19,9 +19,10 @@ Welcome to my `Research and Scholarship` page! Below, you will find links to pro
 
 My work applies theories and methods from the cognitive and learning sciences to investigate the act of learning and doing statistics, and critically examines statistics education research theories and methodologies. 
 
-Generally speaking, my work falls into one of two categories: 
+Generally speaking, my work falls into one of three categories: 
 
-- investigations of the cognitive processes underlying statistical thinking, and
+- investigations of the cognitive processes underlying statistical thinking, 
+- psychometric studies of the assessment of cognitive and non-cognitive characteristics related to learning and doing statistics, and
 - design-based educational research to develop new statistics pedagogies. 
 
 <br> 
@@ -32,13 +33,15 @@ As Dr. Joan Garfield once said, "I cannot imagine being a sole researcher on any
 
 If you're a statistician looking for a psychologist, or a psychologist looking for a statistician, or generally interested in collaborating on research in statistical cognition or statistics education, I would love to set a time to chat with you. 
 
+<br>
+
 # Active Projects
 
 <br> 
 
-### Harnessing GPT Technologies to Develop Students' Statistical and Computational Thinking
+### Harnessing AI to Develop Students' Statistical Thinking
 
-What computational thinking skills are needed in order to successfully utilize generative AI applications to complete statistical and data related tasks? How can these technologies help broaden participation in STEM? For more, visit [link coming soon](). 
+AI tools are here to stay. How do they change the way statistics can be practiced and taught? How do we ensure AI drives students' learning of statistics, as opposed to being used as a crutch to circumvent the development of statistical thinking skills? For more, visit [link coming soon](). 
 
 <br> 
 
@@ -54,7 +57,7 @@ Statistics is not a set of this-or-that rules. It is all about uncertainty and v
 
 <br>
 
-# Completed Projects
+# Ongoing Projects
 
 <br> 
 

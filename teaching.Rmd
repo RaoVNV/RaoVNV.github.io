@@ -10,7 +10,11 @@ Welcome to my `Teaching and Training` page! Below, you will find a list of cours
 
 # University of Illinois
 
-*Stat 100 Statistics* is an introductory undergraduate level statistics course for students of any and all majors. The course focuses on the basic principles of statistics. 
+*Stat 100 Statistics* is an introductory undergraduate level general education course for students of any and all majors. The course focuses on the basic principles of statistics, and 'making sense of data'. 
+
+- [Fall 2025 In-person Syllabus](https://docs.google.com/document/d/1-tqquP91o3nf7UL8XWcBBwEfQ1ofHG3sQDqVqkE2vVk/edit?usp=sharing)
+
+<br>
 
 # University of Minnesota
 
@@ -27,6 +31,8 @@ Welcome to my `Teaching and Training` page! Below, you will find a list of cours
 
 - [Spring 2020 In-person Syllabus](https://github.com/RaoVNV/syllabi/blob/master/PUBH%206451%20Sp2020%20IP.pdf)
 
+<br>
+
 # George Washington University
 
 *HSCI 2117 Introduction to Statistics for the Health Sciences* is an introductory undergraduate level statistics course for students in the health sciences. The course focuses on the basic principles of statistical inference. 
@@ -42,6 +48,8 @@ Welcome to my `Teaching and Training` page! Below, you will find a list of cours
 *STAT 3187 Introduction to Sampling (as TA)* is an advanced undergraduate level course for students in the statistics department. The course focuses on the theories and principles of statistical sampling. 
 
 *STAT 2112 Business Statistics II (as TA)* is an introductory undergraduate level course for students majoring in the business related programs. It is the second course in a sequence (preceded by STAT 2111) and focuses on methods and applications of statistical inference.
+
+<br>
 
 # Workshops
 
