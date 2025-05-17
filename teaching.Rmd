@@ -8,6 +8,8 @@ output:
 
 Welcome to my `Teaching and Training` page! Below, you will find a list of courses I've taught along with example syllabi. 
 
+<br>
+
 # University of Illinois
 
 *Stat 100 Statistics* is an introductory undergraduate level general education course for students of any and all majors. The course focuses on the basic principles of statistics, and 'making sense of data'. 

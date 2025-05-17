@@ -25,53 +25,36 @@ Generally speaking, my work falls into one of three categories:
 - psychometric studies of the assessment of cognitive and non-cognitive characteristics related to learning and doing statistics, and
 - design-based educational research to develop new statistics pedagogies. 
 
+In my own projects, or when working with others, I seek to be a part of interdisciplinary teams founded on mutual curiosity and passion -- *"I cannot imagine being a sole researcher on any project or keeping ideas to myself" (Garfield, 2013, p. 6)*^[Garfield, J. (2013). Cooperative learning revisited: From an instructional method to a way of life. *Journal of Statistics Education, 21*(2).]. 
+
 <br> 
-
-#### Interested in collaborating with me? 
-
-As Dr. Joan Garfield once said, "I cannot imagine being a sole researcher on any project or keeping ideas to myself" (Garfield, 2013, p. 6)^[Garfield, J. (2013). Cooperative learning revisited: From an instructional method to a way of life. *Journal of Statistics Education, 21*(2).]. 
-
-If you're a statistician looking for a psychologist, or a psychologist looking for a statistician, or generally interested in collaborating on research in statistical cognition or statistics education, I would love to set a time to chat with you. 
-
-<br>
 
 # Active Projects
-
-<br> 
 
 ### Harnessing AI to Develop Students' Statistical Thinking
 
 AI tools are here to stay. How do they change the way statistics can be practiced and taught? How do we ensure AI drives students' learning of statistics, as opposed to being used as a crutch to circumvent the development of statistical thinking skills? For more, visit [link coming soon](). 
 
-<br> 
-
 ### Authentic Statistical Graphical Literacy
 
 However, graphs we see in our every day lives are often quite different than the graphs students are exposed to in introductory statistics courses. Can students interpret what *authentic* graphs they may see in their every days do and do not reveal? How we can measure their skills in doing so? How to support the development of these skills? For more, visit [RaoVNV.github.io/authenticliteracy/](/authenticliteracy/).
-
-<br>
 
 ### Accepting Uncertainty
 
 Statistics is not a set of this-or-that rules. It is all about uncertainty and variability. A key component of statistical thinking is to accept this inherent uncertainty. How ready are students to do this? How accepting of uncertainty to they walk out of statistics classes? Are students' views about statistics consistent with statisticians' views? For more, visit [RaoVNV.github.io/acceptuncertainty](/acceptuncertainty/).
 
+
 <br>
 
 # Ongoing Projects
-
-<br> 
 
 ### Categorization of Statistical Measures
 
 How do the *statistically significant* and *not statistically significant* category labels affect our cognition of statistical measures like *p*-values and Cohen's *d* effect sizes? For more, visit [RaoVNV.github.io/p-values/](/p-values/).
 
-<br>
-
 ### Human Clustering
 
 How do humans cluster sets of points? Is their clustering reliable? What individual and group differences are there in human clustering? What other cognitive processes is clustering related to? For more, visit [RaoVNV.github.io/clustering/](/clustering/).
-
-<br>
 
 <!--
 
