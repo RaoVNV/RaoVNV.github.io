@@ -33,7 +33,7 @@ In my own projects, or when working with others, I seek to be a part of interdis
 
 ### Harnessing AI to Develop Students' Statistical Thinking
 
-AI tools are here to stay. How do they change the way statistics can be practiced and taught? How do we ensure AI drives students' learning of statistics, as opposed to being used as a crutch to circumvent the development of statistical thinking skills? For more, visit [link coming soon](). 
+AI tools are here to stay. How do they change the way statistics can be practiced and taught? How do we ensure AI drives students' learning of statistics, as opposed to being used as a crutch to circumvent the development of statistical thinking skills? For more, visit [RaoVNV.github.io/HarnessingAI/](/HarnessingAI/). 
 
 ### Authentic Statistical Graphical Literacy
 

@@ -24,23 +24,29 @@ Fall 2025: 1 position for an hourly graduate RA with advanced python skills to s
 
 2025: 
 
-- [Ella Hiles](https://www.linkedin.com/in/ella-hiles-281b492a5/): Studying the impact of the TikTok ban on Gen Z's social and mental health^[Winner of the 2025 Undergraduate Research Symposium Award for Outstanding Oral Presentation]
+- [Ella Hiles](https://www.linkedin.com/in/ella-hiles-281b492a5/): Studying the impact of the TikTok ban on Gen Z's social and mental health
+  + Winner of the 2025 Undergraduate Research Symposium Award for Outstanding Oral Presentation
 - [Alexandra Stoica](https://www.linkedin.com/in/alexandra-stoica-b309b4252/): Word perception of personality disorder diagnostic criteria
-- Mia Petrie and [Madeline Hunt](https://www.linkedin.com/in/madeline-hunt-929132276/): Building a modern assessment for statistical graphic literacy
+- Mia Petrie and [Madeline Hunt](https://www.linkedin.com/in/madeline-hunt-929132276/): Students' thinking about biases and challenges when interpreting news media data visualizations 
+  + *For more, visit [RaoVNV.github.io/authenticliteracy/](/authenticliteracy/)*
 - [Madeline Hunt](https://www.linkedin.com/in/madeline-hunt-929132276/) and [Samin Hemani](https://www.linkedin.com/in/samin-hemani-6a5a71293/): The relationship between students' tolerance of uncertainty and statistics understanding
+  + *For more, visit [RaoVNV.github.io/acceptuncertainty](/acceptuncertainty/)*
 - [Reem Kharfan](https://www.linkedin.com/in/reem-kharfan-b8820b215/): Developing students' statistical literacy habits of mind
 - [Aman Ravishankar](https://www.linkedin.com/in/aman-ravi-2405lhj/): Debate activities to promote students' statistical thinking
 - [Samhita Periyanayaham](https://www.linkedin.com/in/samhita-periyanayaham-13b64629a/): A culture-specific therapy program for individuals with anxiety disorders
 
 2024: 
 
-- [Priyadharshini Sriramlatha](https://www.linkedin.com/in/pdsl/) and [Aparajita Vemuri](https://www.linkedin.com/in/aparajitavemuri/): The influence of personality on learning statistics
+- [Priyadharshini Sriramlatha](https://www.linkedin.com/in/pdsl/) and [Aparajita Vemuri](https://www.linkedin.com/in/aparajitavemuri/): The relationship of personality characteristics with learning statistics 
+  + *For more, visit [RaoVNV.github.io/acceptuncertainty](/acceptuncertainty/)*
 - [Bhuvan Kala](https://www.linkedin.com/in/bhuvan-kala-072372216/), [Julianna Drew](https://www.linkedin.com/in/julianna-drew-96ba78286/), and [Sanjana Gongati](https://www.linkedin.com/in/sanjana-gongati/): Harnessing AI to develop students' statistical thinking
+  + *For more, visit [RaoVNV.github.io/HarnessingAI/](/HarnessingAI/)*
 - [Daniel Hogan](https://www.linkedin.com/in/daniel-hogan-a9a17b352/): Mind wandering when learning statistics
 
 2023: 
 
-- [Shubh Goyal](https://www.linkedin.com/in/shubh-goyal-33a070220/): Individual differences in human clustering
+- [Shubh Goyal](https://www.linkedin.com/in/shubh-goyal-33a070220/): Individual differences in human clustering 
+  + *For more, visit [RaoVNV.github.io/clustering/](/clustering/)*
 - [Vishnu Sadhu](https://www.linkedin.com/in/vishnu-sadhu-ab67491b4/): Psychological factors associated with purchasing life insurance
 
 2022: 
@@ -54,8 +60,10 @@ Fall 2025: 1 position for an hourly graduate RA with advanced python skills to s
 2025: 
 
 - [Laura Bandi](https://laurambandi.com/): Latent change score modeling of students' propensity to pursue statistics and data science
+  + *For more, visit [RaoVNV.github.io/HarnessingAI/](/HarnessingAI/)*
 - [Amos Jeng](https://amosjeng.com/) and [Tiffany Reyes Denis](https://www.linkedin.com/in/reyesdenis/): Harnessing AI to develop students' statistical thinking
+  + *For more, visit [RaoVNV.github.io/HarnessingAI/](/HarnessingAI/)*
 
 2024: 
 
-- Maisha Ahasan: The impact of teacher-student identity congruence on students' sense of belonging
+- [Maisha Ahasan](https://www.linkedin.com/in/maisha-ahasan-5bb1a323a/): The impact of teacher-student identity congruence on students' sense of belonging
