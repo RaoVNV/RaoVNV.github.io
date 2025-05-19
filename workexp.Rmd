@@ -8,11 +8,17 @@ output:
 
 Welcome to my work experience page! Below, you will find information about each of the full time jobs I've held outside of academia. 
 
+<br>
+
+
 # Chief of Data Management and Analysis
 
 *HIV/AIDS Bureau, Health Resources and Services Administration*
 
 I served as an innovative leader in data management and analysis. I supervised a team of 8 FTEs and 2 interns in the provision of consultation, advice, and leadership for data collection, data processing and quality evaluations, advanced database management, and data analysis and dissemination. Voluntary separation. 
+
+
+<br>
 
 
 # Health Statistician
@@ -21,11 +27,17 @@ I served as an innovative leader in data management and analysis. I supervised a
 
 I served as an expert statistician, data analyst, and SAS programmer. I provided statistical and epidemiological consultation, advice, and leadership for data collection, data processing and quality evaluations, advanced database management, and data analysis and dissemination. Separation due to promotion.
 
+<br>
+
+
 # Mathematical Statistician (DSSD)
 
 *Decennial Statistical Studies Division, US Census Bureau*
 
 I served as an expert in statistical quality assurance and acceptance sampling. I managed and led quality assurance activities including research and development, program planning, instrument development and testing, operations management, and data analysis and reporting. Separation due to promotion.
+
+<br>
+
 
 # Mathematical Statistician (NPC)
 

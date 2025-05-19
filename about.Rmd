@@ -8,6 +8,8 @@ output:
 
 Welcome to my `About Me` page! Below, you will find information about my research, teaching, advising, and a copy of my CV. 
 
+<br>
+
 # Research 
 
 My research investigates the psychology of statistics. That is, what does it mean to do statistics, and how does one learn to do this? 
@@ -15,6 +17,9 @@ My research investigates the psychology of statistics. That is, what does it mea
 My primary research interests draw on theories and methods from the cognitive and learning sciences to investigate various aspects of statistical thinking. My theoretical research and my classroom-based research intertwine in my desire to develop a holistic social cognitive theory of statistical thinking. Specifically, I work towards radically reimagining how statistics is taught, in terms of both *what* is taught and *how* it is taught. 
 
 <!--  To read more about my research during this time period, download a copy of my research statement from 2022 [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_Research.pdf). -->
+
+<br>
+
 
 # Teaching
 
@@ -26,11 +31,17 @@ My goal is thus to support my students’ learning by facilitating a learning en
 
 To read more about my teaching, download a copy of my teaching statement from 2022 [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_Teaching.pdf).
 
+<br>
+
+
 # Values
 
 நான் யார்? [naan yaar] In Tamil, this question famously asked by the Saint Sri Ramana Maharishi simply asks, “Who am I?”. Together with the answer from the Yajur Veda, अहम् ब्रह्मास्मि [aham brahmaasmi], “I am Brahman”, this question fuels my drive to try to see myself in everything and everyone, and share my knowledge to help my students realize their immense potential. 
 
 To read more about the way my values influence my research, teaching, and advising, download a copy of my EDI statement from 2022 [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_EDI_2pg.pdf).
+
+<br>
+
 
 # Advising
 
@@ -47,6 +58,9 @@ A scholar must:
 
 As an advisor, I share my experiences along these four dimensions with my advisees, and show them how I enact the process of scholarship. I invite them to do the same, and help to mentor them in learning what they love, developing self-confidence, noticing curious intricacies, and driving towards new knowledge. 
 
+<br>
+
+
 #### Are you a student interested in working with me? 
 
 There are two types of research mentees I take: 
@@ -55,6 +69,9 @@ There are two types of research mentees I take:
 - Mentees to work on research questions of their own choice, who register for independent study credits
 
 For more information, please visit my [advising](https://raovnv.github.io/advising) page. 
+
+<br>
+
 
 # Curriculum Vitae
 

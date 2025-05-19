@@ -8,6 +8,9 @@ output:
 
 Welcome to my `Education` page! Below, you will find more information about each of the programs of study I have undertaken, and the advisors I have worked with.
 
+<br>
+
+
 # PhD in Educational Psychology 
 
 Program: Quantitative Methods in Education // Concentration: Statistics Education
@@ -17,6 +20,9 @@ After being asked to redesign an introductory statistics course (GWU HSCI 2117; 
 My early milestone work focused on psychometric analyses of the Comprehensive Assessment of Outcomes in Statistics (CAOS). I then shifted to studying students' statistical thinking for my dissertation, especially their understanding of null models. 
 
 <!-- add links to CAOS and Null Model project pages -->
+
+<br>
+
 
 # MA in Educational Psychology
 
@@ -28,11 +34,17 @@ I soon began working with [Dr. Sashank Varma](https://psychology.gatech.edu/sash
 
 My masters paper explored the cognitive foundations of probability underlying statistical reasoning and thinking, specifically in the processing, encoding, and retrieval of semantic and numerical information when presented as *p*-values. 
 
+<br>
+
+
 # MS in Statistics
 
 While working for the [US Census Bureau](https://www.census.gov/), I pursued an [MS in Statistics](https://statistics.columbian.gwu.edu/ms-statistics) from the [George Washington University](https://www.gwu.edu/) as a part-time student. My coursework primarily focused on modern data analysis and applied statistics, featuring courses such as Data Mining, Modern Theory of Sample Surveys, and Legal Statistics. 
 
 As a student, I primarily worked on projects in legal statistics with [Dr. Joseph L.  Gastwirth](https://statistics.columbian.gwu.edu/joseph-gastwirth) and projects in data mining with [Dr. Rida Moustafa](https://www.linkedin.com/in/rida-moustafa-a663971a7/). 
+
+<br>
+
 
 # BS in Mathematics
 
