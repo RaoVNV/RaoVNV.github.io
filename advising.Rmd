@@ -25,12 +25,12 @@ Fall 2025: 1 position for an hourly graduate RA with advanced python skills to s
 2025: 
 
 - [Ella Hiles](https://www.linkedin.com/in/ella-hiles-281b492a5/): Studying the impact of the TikTok ban on Gen Z's social and mental health
-  + Winner of the 2025 Undergraduate Research Symposium Award for Outstanding Oral Presentation
+  + *Winner of the 2025 Undergraduate Research Symposium Award for Outstanding Oral Presentation*
 - [Alexandra Stoica](https://www.linkedin.com/in/alexandra-stoica-b309b4252/): Word perception of personality disorder diagnostic criteria
 - Mia Petrie and [Madeline Hunt](https://www.linkedin.com/in/madeline-hunt-929132276/): Students' thinking about biases and challenges when interpreting news media data visualizations 
   + *For more, visit [RaoVNV.github.io/authenticliteracy/](/authenticliteracy/)*
 - [Madeline Hunt](https://www.linkedin.com/in/madeline-hunt-929132276/) and [Samin Hemani](https://www.linkedin.com/in/samin-hemani-6a5a71293/): The relationship between students' tolerance of uncertainty and statistics understanding
-  + *For more, visit [RaoVNV.github.io/acceptuncertainty](/acceptuncertainty/)*
+  + *For more, visit [RaoVNV.github.io/acceptuncertainty/](/acceptuncertainty/)*
 - [Reem Kharfan](https://www.linkedin.com/in/reem-kharfan-b8820b215/): Developing students' statistical literacy habits of mind
 - [Aman Ravishankar](https://www.linkedin.com/in/aman-ravi-2405lhj/): Debate activities to promote students' statistical thinking
 - [Samhita Periyanayaham](https://www.linkedin.com/in/samhita-periyanayaham-13b64629a/): A culture-specific therapy program for individuals with anxiety disorders
@@ -38,7 +38,7 @@ Fall 2025: 1 position for an hourly graduate RA with advanced python skills to s
 2024: 
 
 - [Priyadharshini Sriramlatha](https://www.linkedin.com/in/pdsl/) and [Aparajita Vemuri](https://www.linkedin.com/in/aparajitavemuri/): The relationship of personality characteristics with learning statistics 
-  + *For more, visit [RaoVNV.github.io/acceptuncertainty](/acceptuncertainty/)*
+  + *For more, visit [RaoVNV.github.io/acceptuncertainty/](/acceptuncertainty/)*
 - [Bhuvan Kala](https://www.linkedin.com/in/bhuvan-kala-072372216/), [Julianna Drew](https://www.linkedin.com/in/julianna-drew-96ba78286/), and [Sanjana Gongati](https://www.linkedin.com/in/sanjana-gongati/): Harnessing AI to develop students' statistical thinking
   + *For more, visit [RaoVNV.github.io/HarnessingAI/](/HarnessingAI/)*
 - [Daniel Hogan](https://www.linkedin.com/in/daniel-hogan-a9a17b352/): Mind wandering when learning statistics
