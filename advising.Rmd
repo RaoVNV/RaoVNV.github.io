@@ -13,9 +13,10 @@ Welcome to my `Advising and Mentoring` page! Below, you will find a list of form
 
 # Current Openings
 
-Fall 2025: 1 position for an hourly graduate RA with advanced python skills to support students related to my clustering project (see my research page for more). 
+Spring 2026: 
 
-Spring 2026: 1 position for an hourly graduate RA with good practical knowledge of latent variable models. 
+- 1 position for an hourly graduate RA with good practical knowledge of latent variable models (i.e., SEM, IRT, LGCM). 
+- 1 position for an hourly graduate RA with advanced python skills to support students related to my clustering project (see my research page for more). 
 
 <br> 
 

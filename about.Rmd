@@ -29,17 +29,18 @@ This saying states that a student’s learning is derived from four sources: the
 
 My goal is thus to support my students’ learning by facilitating a learning environment in which all sources can contribute to students’ growth. To manifest these values in a learning environment, I adopt a student-centered approach to guide my student interactions and classroom presence. 
 
+<!--
 To read more about my teaching, download a copy of my teaching statement from 2022 [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_Teaching.pdf).
-
+-->
 <br>
 
 
 # Values
 
 நான் யார்? [naan yaar] In Tamil, this question famously asked by the Saint Sri Ramana Maharishi simply asks, “Who am I?”. Together with the answer from the Yajur Veda, अहम् ब्रह्मास्मि [aham brahmaasmi], “I am Brahman”, this question fuels my drive to try to see myself in everything and everyone, and share my knowledge to help my students realize their immense potential. 
-
+<!--
 To read more about the way my values influence my research, teaching, and advising, download a copy of my EDI statement from 2022 [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_EDI_2pg.pdf).
-
+-->
 <br>
 
 
@@ -75,7 +76,7 @@ For more information, please visit my [advising](https://raovnv.github.io/advisi
 
 # Curriculum Vitae
 
-Last Update: May 2025
+Last Update: Dec 2025
 
 To download a copy of my CV, click [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_CV.pdf).
 

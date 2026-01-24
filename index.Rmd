@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Hello! My name is V.N. Vimal Rao. I am a Statistician and Educational Psychologist, currently at the [Department of Statistics](https://stat.illinois.edu/) and [Department of Educational Psychology](https://education.illinois.edu/edpsy) at the [University of Illinois in Urbana-Champaign](https://illinois.edu/). 
 
-My main interests are in the psychology of statistics: what does it mean to *do* statistics, and how does one *learn to do* statistics? 
+My main interest is the psychology of statistics: what does it mean to *do* statistics, and how does one *learn to do* statistics? 
 
 On this website, you'll find more information about me, my research and teaching, the students I've mentored, as well as my education and work experience. 
 
