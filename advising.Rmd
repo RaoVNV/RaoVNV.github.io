@@ -22,39 +22,56 @@ Spring 2026:
 
 # Undergraduate Students
 
+2026: 
+
+- [Samhita Periyanayaham](https://www.linkedin.com/in/samhita-periyanayaham-13b64629a/): Statistics-Situated Tolerance of Uncertainty and Ambiguity$^2$
+
 2025: 
 
-- [Ella Hiles](https://www.linkedin.com/in/ella-hiles-281b492a5/): Studying the impact of the TikTok ban on Gen Z's social and mental health
+- [Ella Hiles](https://www.linkedin.com/in/ella-hiles-281b492a5/): Studying the impact of the TikTok ban on Gen Z's social and mental health$^1$
   + *Winner of the 2025 Undergraduate Research Symposium Award for Outstanding Oral Presentation*
-- [Alexandra Stoica](https://www.linkedin.com/in/alexandra-stoica-b309b4252/): Word perception of personality disorder diagnostic criteria
-- Mia Petrie and [Madeline Hunt](https://www.linkedin.com/in/madeline-hunt-929132276/): Students' thinking about biases and challenges when interpreting news media data visualizations 
+- [Alexandra Stoica](https://www.linkedin.com/in/alexandra-stoica-b309b4252/): Word perception of personality disorder diagnostic criteria$^1$
+- Mia Petrie and [Madeline Hunt](https://www.linkedin.com/in/madeline-hunt-929132276/): Students' thinking about biases and challenges when interpreting news media data visualizations $^1$$^4$
   + *For more, visit [RaoVNV.github.io/authenticliteracy/](/authenticliteracy/)*
-- [Madeline Hunt](https://www.linkedin.com/in/madeline-hunt-929132276/) and [Samin Hemani](https://www.linkedin.com/in/samin-hemani-6a5a71293/): The relationship between students' tolerance of uncertainty and statistics understanding
+- [Madeline Hunt](https://www.linkedin.com/in/madeline-hunt-929132276/) and [Samin Hemani](https://www.linkedin.com/in/samin-hemani-6a5a71293/): The relationship between students' tolerance of uncertainty and statistics understanding$^1$$^2$$^4$
   + *For more, visit [RaoVNV.github.io/acceptuncertainty/](/acceptuncertainty/)*
-- [Reem Kharfan](https://www.linkedin.com/in/reem-kharfan-b8820b215/): Developing students' statistical literacy habits of mind
-- [Aman Ravishankar](https://www.linkedin.com/in/aman-ravi-2405lhj/): Debate activities to promote students' statistical thinking
-- [Samhita Periyanayaham](https://www.linkedin.com/in/samhita-periyanayaham-13b64629a/): A culture-specific therapy program for individuals with anxiety disorders
-- [Max Fang](https://www.linkedin.com/in/max-fang-9ba380322/): The relationship between students' self-efficacy and their learning
+- [Reem Kharfan](https://www.linkedin.com/in/reem-kharfan-b8820b215/): Developing students' statistical literacy habits of mind$^1$$^4$
+- [Samhita Periyanayaham](https://www.linkedin.com/in/samhita-periyanayaham-13b64629a/): A culture-specific therapy program for individuals with anxiety disorders$^1$
+- [Aman Ravishankar](https://www.linkedin.com/in/aman-ravi-2405lhj/): Debate activities to promote students' statistical thinking$^1$
+- [Max Fang](https://www.linkedin.com/in/max-fang-9ba380322/): The relationship between students' self-efficacy and their learning$^3$
+- Preetha Manjunath: The relationship between students' personality traits and attitudes towards AI$^2$
+- Karena Liang: The relationship between students' personality traits and attitudes towards statistics$^2$
+- Sophia Stierwalt: The relationship between students' views of statistics and attitudes towards statistics$^2$
 
 2024: 
 
-- [Priyadharshini Sriramlatha](https://www.linkedin.com/in/pdsl/) and [Aparajita Vemuri](https://www.linkedin.com/in/aparajitavemuri/): The relationship of personality characteristics with learning statistics 
+- [Priyadharshini Sriramlatha](https://www.linkedin.com/in/pdsl/) and [Aparajita Vemuri](https://www.linkedin.com/in/aparajitavemuri/): The relationship of personality characteristics with learning statistics$^1$ 
   + *For more, visit [RaoVNV.github.io/acceptuncertainty/](/acceptuncertainty/)*
-- [Bhuvan Kala](https://www.linkedin.com/in/bhuvan-kala-072372216/), [Julianna Drew](https://www.linkedin.com/in/julianna-drew-96ba78286/), and [Sanjana Gongati](https://www.linkedin.com/in/sanjana-gongati/): Harnessing AI to develop students' statistical thinking
+- [Bhuvan Kala](https://www.linkedin.com/in/bhuvan-kala-072372216/), [Julianna Drew](https://www.linkedin.com/in/julianna-drew-96ba78286/), and [Sanjana Gongati](https://www.linkedin.com/in/sanjana-gongati/): Harnessing AI to develop students' statistical thinking$^1$$^2$$^4$$^6$
   + *For more, visit [RaoVNV.github.io/HarnessingAI/](/HarnessingAI/)*
-- [Daniel Hogan](https://www.linkedin.com/in/daniel-hogan-a9a17b352/): Mind wandering when learning statistics
+- [Daniel Hogan](https://www.linkedin.com/in/daniel-hogan-a9a17b352/): Mind wandering when learning statistics$^2$
 
 2023: 
 
-- [Shubh Goyal](https://www.linkedin.com/in/shubh-goyal-33a070220/): Individual differences in human clustering 
+- [Shubh Goyal](https://www.linkedin.com/in/shubh-goyal-33a070220/): Individual differences in human clustering$^2$ 
   + *For more, visit [RaoVNV.github.io/clustering/](/clustering/)*
-- [Vishnu Sadhu](https://www.linkedin.com/in/vishnu-sadhu-ab67491b4/): Psychological factors associated with purchasing life insurance
+- [Vishnu Sadhu](https://www.linkedin.com/in/vishnu-sadhu-ab67491b4/): Psychological factors associated with purchasing life insurance$^2$
 
 2022: 
 
-- [Maisie Simpson](https://www.linkedin.com/in/maisie-simpson-1b4b491aa/): Association between generational trauma and progressive dementia types
+- [Maisie Simpson](https://www.linkedin.com/in/maisie-simpson-1b4b491aa/): Association between generational trauma and progressive dementia types$^6$
 
 <br> 
+
+$^1$ Presented at the UIUC Undergraduate Research Syposium <br>
+$^2$ Presented at the UIUC Department of Statistics Undergraduate Research Experience in Statistics Symposium <br>
+$^3$ Presented at the UIUC Department of Statistics Blackwell Summer Scholars Program Symposium <br>
+$^4$ Presented at the US Conference on Teaching Statistics <br>
+$^5$ Presented at the Electronic Conference on Teaching Statistics <br>
+$^6$ Published a peer-reviewed journal paper <br>
+$^7$ Published a Bachelor's thesis <br>
+
+<br>
 
 # Graduate Students
 
