@@ -13,10 +13,12 @@ Welcome to my `Advising and Mentoring` page! Below, you will find a list of form
 
 # Current Openings
 
-Spring 2026: 
+Fall 2026: 
 
 - 1 position for an hourly graduate RA with good practical knowledge of latent variable models (i.e., SEM, IRT, LGCM). 
-- 1 position for an hourly graduate RA with advanced python skills to support students related to my clustering project (see my research page for more). 
+- 1 position for an hourly graduate RA with advanced python skills. 
+
+- 1 position for an hourly graduate RA with knowledge of jspsych.
 
 <br> 
 
@@ -24,23 +26,54 @@ Spring 2026:
 
 2026: 
 
-- [Samhita Periyanayaham](https://www.linkedin.com/in/samhita-periyanayaham-13b64629a/): Statistics-Situated Tolerance of Uncertainty and Ambiguity$^2$
+- Bloom Dawson: Perceptions of Unconventional Gender Tropes in Fiction$^1$
+- Peyton Lamphear: The Relationship between Social Media and Body Image Among College Students$^1$
+- Janel Ivy: Engagement, Attachment, and Satisfaction in Gen Z Romantic Relationships$^1$
+- [Alexandra Stoica](https://www.linkedin.com/in/alexandra-stoica-b309b4252/): Language Bias and Diagnostic Disparities in Personality Disorders$^1$
+- [Samhita Periyanayaham](https://www.linkedin.com/in/samhita-periyanayaham-13b64629a/): Statistics-Situated Tolerance of Uncertainty and Ambiguity$^1$$^2$
+  + *For more, visit [RaoVNV.github.io/acceptuncertainty/](/acceptuncertainty/)*
+- Reed Haas: The Effect of Sports Fan Identification on Sense of Community and Academic Behavior$^1$$^2$
+- Emma Costell-Wollwage: The Constraints of Studenthood: How Academic Responsibilities Moderate Political
+Engagement Routes$^1$
+- Madison King: The Development of High School Students' Statistical Literacy Habits of Mind$^1$
+  + *For more, visit [RaoVNV.github.io/authenticliteracy/](/authenticliteracy/)*
+- Evan Short: Students' "Most Life-Changing Experiences"$^1$
+- Hanako Salay: Emotional Intelligence and Visual Framing Effects$^1$
+- Pavitra Shankar: Student-Centered Design of AI Tools for Statistics$^1$
+  + *For more, visit [RaoVNV.github.io/HarnessingAI/](/HarnessingAI/)*
+- Vivian Zheng: Motivation, Performance, and Student Well-Being$^1$
+- Gaby Zakrzewski: The Effect of Gun Violence Exposure Through Social Media on Students$^1$
+- Dystonae Clark: Black College Student Perceptions of Racial Microaggressions$^1$
+- Lucy Lozano Guajardo: How Environmental and Dispositional Factors Affect Students 'Bouncing Back' from a 'Bombed' Exam$^1$
+- [Madeline Hunt](https://www.linkedin.com/in/madeline-hunt-929132276/): Quantitative and Qualitative Analyses of an Assessment Evaluating Students' Visudal Data Literacy$^1$
+  + *For more, visit [RaoVNV.github.io/authenticliteracy/](/authenticliteracy/)*
+- Audrey Mathews: Understanding the Influence of Campus Wildlife on Students$^1$
+- Ari Coulekar: Individual Differences in Humans' Clustering Strategies of Visual Data$^1$
+  + *For more, visit [RaoVNV.github.io/clustering/](/clustering/)*
+- Karena Liang: The relationship between students' personality traits and attitudes towards statistics$^1$$^2$
+- Megna Sivakumar: Perceived Credibility of Expert Witnesses with Indian Accents$^1$
+- Alyssa Sullivan: Individualism, Collectivism, and Psychological Well-being$^1$
+- Riley Faust: The Impact of Religiosity on Traditional Relationship Values$^1$
+- Hannah Alber: The Relationship in Financial Literacy between Children and Parents$^1$
+- Aadya Kashyap: Gen Z's Daydreaming Habits$^1$
+- Ava Graczyk: AI's Failures in Interpreting Graphs$^1$
+  + *For more, visit [RaoVNV.github.io/authenticliteracy/](/authenticliteracy/)*
+- Navya Rao: Professional and Leadership Development of Undergraduate Course Assistants$^1$
 
 2025: 
 
 - [Ella Hiles](https://www.linkedin.com/in/ella-hiles-281b492a5/): Studying the impact of the TikTok ban on Gen Z's social and mental health$^1$
   + *Winner of the 2025 Undergraduate Research Symposium Award for Outstanding Oral Presentation*
-- [Alexandra Stoica](https://www.linkedin.com/in/alexandra-stoica-b309b4252/): Word perception of personality disorder diagnostic criteria$^1$
 - Mia Petrie and [Madeline Hunt](https://www.linkedin.com/in/madeline-hunt-929132276/): Students' thinking about biases and challenges when interpreting news media data visualizations $^1$$^4$
   + *For more, visit [RaoVNV.github.io/authenticliteracy/](/authenticliteracy/)*
 - [Madeline Hunt](https://www.linkedin.com/in/madeline-hunt-929132276/) and [Samin Hemani](https://www.linkedin.com/in/samin-hemani-6a5a71293/): The relationship between students' tolerance of uncertainty and statistics understanding$^1$$^2$$^4$
   + *For more, visit [RaoVNV.github.io/acceptuncertainty/](/acceptuncertainty/)*
 - [Reem Kharfan](https://www.linkedin.com/in/reem-kharfan-b8820b215/): Developing students' statistical literacy habits of mind$^1$$^4$
+  + *For more, visit [RaoVNV.github.io/authenticliteracy/](/authenticliteracy/)*
 - [Samhita Periyanayaham](https://www.linkedin.com/in/samhita-periyanayaham-13b64629a/): A culture-specific therapy program for individuals with anxiety disorders$^1$
 - [Aman Ravishankar](https://www.linkedin.com/in/aman-ravi-2405lhj/): Debate activities to promote students' statistical thinking$^1$
 - [Max Fang](https://www.linkedin.com/in/max-fang-9ba380322/): The relationship between students' self-efficacy and their learning$^3$
 - Preetha Manjunath: The relationship between students' personality traits and attitudes towards AI$^2$
-- Karena Liang: The relationship between students' personality traits and attitudes towards statistics$^2$
 - Sophia Stierwalt: The relationship between students' views of statistics and attitudes towards statistics$^2$
 
 2024: 
@@ -75,6 +108,14 @@ $^7$ Published a Bachelor's thesis <br>
 
 # Graduate Students
 
+
+2026: 
+
+- [Laura Bandi](https://laurambandi.com/): Assessing Students' Statistics and Data Science Career Choices
+  + *For more, visit [RaoVNV.github.io/HarnessingAI/](/HarnessingAI/)*
+- [Tiffany Reyes Denis](https://www.linkedin.com/in/reyesdenis/): Harnessing AI to develop students' statistical thinking
+  + *For more, visit [RaoVNV.github.io/HarnessingAI/](/HarnessingAI/)*
+  
 2025: 
 
 - [Laura Bandi](https://laurambandi.com/): Latent change score modeling of students' propensity to pursue statistics and data science

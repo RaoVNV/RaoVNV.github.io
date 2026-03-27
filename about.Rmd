@@ -16,7 +16,7 @@ My research investigates the psychology of statistics. That is, what does it mea
 
 My primary research interests draw on theories and methods from the cognitive and learning sciences to investigate various aspects of statistical thinking. My theoretical research and my classroom-based research intertwine in my desire to develop a holistic social cognitive theory of statistical thinking. Specifically, I work towards radically reimagining how statistics is taught, in terms of both *what* is taught and *how* it is taught. 
 
-<!--  To read more about my research during this time period, download a copy of my research statement from 2022 [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_Research.pdf). -->
+Most recently I've been focusing on incorporating AI into STEM Education, in terms of its implications for reimagining both instruction and assessment. What are the quintessential human skills that students need to have in an AI age and how can AI help students develop these skills?
 
 <br>
 
@@ -27,35 +27,23 @@ My primary research interests draw on theories and methods from the cognitive an
 
 This saying states that a student’s learning is derived from four sources: their teacher, themselves, their peers, and through time. These four sources do not operate independently - my choices as a teacher are inexorably intertwined with the impact each source has on students. 
 
-My goal is thus to support my students’ learning by facilitating a learning environment in which all sources can contribute to students’ growth. To manifest these values in a learning environment, I adopt a student-centered approach to guide my student interactions and classroom presence. 
+My goal is thus to support my students’ learning by facilitating a learning environment in which all sources can contribute to students’ growth. To manifest these values in a learning environment, I seek to find the balance between instructional design and learning theory with student-centered design to guide my student interactions and classroom presence. 
 
-<!--
-To read more about my teaching, download a copy of my teaching statement from 2022 [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_Teaching.pdf).
--->
+Specifically, I rely on an excellent team of undergraduate course assistants to help find that middle ground between teachers and students. To learn more about the full Stat 100 Teaching Team, click [here](https://sites.google.com/illinois.edu/stat-100-teaching-team/home).
+
 <br>
 
 
 # Values
 
-நான் யார்? [naan yaar] In Tamil, this question famously asked by the Saint Sri Ramana Maharishi simply asks, “Who am I?”. Together with the answer from the Yajur Veda, अहम् ब्रह्मास्मि [aham brahmaasmi], “I am Brahman”, this question fuels my drive to try to see myself in everything and everyone, and share my knowledge to help my students realize their immense potential. 
-<!--
-To read more about the way my values influence my research, teaching, and advising, download a copy of my EDI statement from 2022 [here](https://github.com/RaoVNV/RaoVNV.github.io/raw/main/RaoVNV_EDI_2pg.pdf).
--->
+நான் யார்? [naan yaar] In Tamil, this question made famous by the Saint Sri Ramana Maharishi simply asks, “Who am I?”. Together with the answer from the Yajur Veda, अहम् ब्रह्मास्मि [aham brahmaasmi], “I am Brahman”, this question fuels my drive to try to see myself in everything and everyone, and share my knowledge to help my students realize their immense potential. I teach my students the way I would want my nephews and nieces to be taught statistics. I mentor my TAs and RAs the way I would want my nephews and nieces to be mentored. I strive to see myself in my students, and to help them learn and grow.  
+ 
 <br>
 
 
 # Advising
 
 I believe my role as an advisor is to unlock the potential within each of my advisees. There are four dimensions along which I seek to support and mentor advisees, which I call the ABCDs of becoming a scholar. A scholar must be **a**utodidactic, **b**elieve in themselves, be **c**urious, and be **d**riven. 
-
-<!-- 
-A scholar must: 
-
-- be an **A**utodidact. One must love learning. This requires one to seek out information and spend the necessary time reflecting upon and processing this information to help gain new insights. 
-- **B**elieve in themselves. To generate new insights and new knowledge requires developing an idea that no one has had before. Others may not see the value in your ideas, but this should never be a deterrent. You must believe in yourself and pursue your ideas without hesitation. Whether or not others adopt your ideas is up to them -- your duty as a scholar is to show them new possibilities. 
-- be **C**urious. All scholarship starts with curiosity, and asking a question such as `I wonder what's going on here?` or `I wonder why this happens?`. A scholar needs to have a keen and curious eye in order to generate new knowledge that can help explain the universe and human existence. 
-- be **D**riven. The path to generating and spreading new knowledge is fraught with difficulty. To be a scholar, you have to dedicate yourself to a life of learning, knowledge, and the spread of knowledge. This means that no matter what obstacles emerge, you have to be driven to overcome them. 
--->
 
 As an advisor, I share my experiences along these four dimensions with my advisees, and show them how I enact the process of scholarship. I invite them to do the same, and help to mentor them in learning what they love, developing self-confidence, noticing curious intricacies, and driving towards new knowledge. 
 
